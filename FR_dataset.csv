@@ -1,0 +1,501 @@
+INDEX,AGE,GENDER,WEIGHT,HEIGHT,VITAMIN_DEFICIENCY,DIETARY_PREFERENCES,FOOD_ALLERGIES,ACTIVITY_LEVEL,HEALTH_CONDITION,CAUSE,FOOD_RECOMMENDATION
+0,45,Male,73.93,181.2,,Vegan,Gluten intolerant,Low,Healthy,Weight loss,Protein-rich diet
+1,52,Male,59.43,172.98,,Mediterranean,,Low,Healthy,Unhealthy lifestyle,Low-fat diet
+2,57,Male,59.9,162.69,Vitamin D,Balanced,,Moderate,Healthy,Hypertension,Low-fat diet
+3,58,Male,87.53,185.27,Vitamin C,Mediterranean,Lactose intolerant,Moderate,Blood pressure issues,Weight management,Low-fat diet
+4,39,Male,87.42,185.76,Vitamin B12,Vegetarian,Lactose intolerant,Active,Obesity,General,Balanced diet
+5,63,Male,98.2,166.17,Vitamin C,Vegetarian,,Moderate,Healthy,Unhealthy lifestyle,Low-fat diet
+6,44,Female,71.77,150.69,Vitamin B12,Low-carb,,Active,Diabetes,Weight loss,Colorful fruits and vegetables
+7,31,Male,80.55,173.69,Vitamin D,Balanced,Lactose intolerant,Low,Diabetes,Unhealthy lifestyle,Fruits and vegetables
+8,31,Female,98.57,160,Vitamin D,Vegan,Gluten intolerant,Sedentary,Blood pressure issues,General,Heart-healthy foods
+9,61,Male,67.68,161.79,Vitamin D,Mediterranean,Gluten intolerant,Active,Diabetes,Heart disease,Balanced diet
+10,31,Female,85.14,171.08,,,Gluten intolerant,Moderate,High cholesterol,Weight loss,Fruits and vegetables
+11,52,Female,84.4,189.35,Vitamin B12,,Lactose intolerant,Moderate,Obesity,Bone health,Fortified dairy products
+12,21,Female,92.55,173.52,Vitamin D,Balanced,Gluten intolerant,Sedentary,Stress-related,Stress,Fortified dairy products
+13,59,Male,85.32,150.13,Vitamin B12,Vegan,Lactose intolerant,Very high,Obesity,Genetics,Fortified dairy products
+14,32,Male,68.26,175.31,Vitamin B12,Low-carb,Gluten intolerant,Very high,Diabetes,General,Heart-healthy foods
+15,34,Female,74.03,154.44,Vitamin B12,Vegan,,Moderate,Obesity,Heart disease,Colorful fruits and vegetables
+16,19,Male,58.65,152.38,Vitamin D,Vegan,,Low,Healthy,Bone health,Protein-rich diet
+17,44,Male,62.79,151.83,Vitamin C,Mediterranean,Gluten intolerant,Moderate,Obesity,Unhealthy lifestyle,"Balanced diet, portion control"
+18,50,Female,86.63,161.48,Vitamin C,Vegan,Lactose intolerant,Very high,Stress-related,Genetics,Fruits and vegetables
+19,48,Male,83.35,170.44,Vitamin D,Vegan,Lactose intolerant,Moderate,Diabetes,Hypertension,Balanced diet
+20,42,Female,52.1,150.8,Vitamin D,Vegan,Gluten intolerant,Sedentary,Stress-related,Stress,Heart-healthy foods
+21,58,Male,92.07,156.32,Vitamin B12,Balanced,Gluten intolerant,Moderate,Diabetes,Bone health,"Whole grains, lean proteins"
+22,47,Female,86.3,154.23,Vitamin D,Balanced,,Active,Blood pressure issues,Stress,Balanced diet
+23,21,Male,61.07,154.4,Vitamin C,Vegetarian,Gluten intolerant,Sedentary,Stress-related,Unhealthy lifestyle,"Whole grains, lean proteins"
+24,26,Female,99.72,154.11,Vitamin C,Mediterranean,Lactose intolerant,Sedentary,Blood pressure issues,Heart disease,Fruits and vegetables
+25,62,Female,86.21,168.72,Vitamin D,Mediterranean,,Moderate,Stress-related,Hypertension,Protein-rich diet
+26,65,Female,63.28,174.7,,Vegan,Gluten intolerant,Low,Blood pressure issues,Hypertension,Fruits and vegetables
+27,53,Male,88.73,165.52,Vitamin D,Mediterranean,Gluten intolerant,Active,Stress-related,Genetics,Heart-healthy foods
+28,45,Female,91.01,168.39,Vitamin B12,Balanced,,Very high,Blood pressure issues,Weight management,Heart-healthy foods
+29,46,Female,53.12,186.61,,Vegan,,Very high,Blood pressure issues,Weight loss,Heart-healthy foods
+30,62,Male,73.41,167.15,Vitamin C,Mediterranean,Gluten intolerant,Moderate,Healthy,Bone health,"Balanced diet, portion control"
+31,47,Male,70.51,166.49,Vitamin C,Low-carb,Lactose intolerant,Moderate,Obesity,Weight management,Colorful fruits and vegetables
+32,52,Male,96.44,166.94,,Mediterranean,Gluten intolerant,Active,Healthy,General,"Whole grains, lean proteins"
+33,24,Female,77.26,187.43,,,,Sedentary,High cholesterol,Genetics,Fruits and vegetables
+34,57,Male,79.15,152.92,Vitamin C,Vegetarian,,Low,High cholesterol,Stress,Fortified dairy products
+35,46,Male,90.08,185.58,Vitamin D,Mediterranean,,Moderate,High cholesterol,General,Balanced diet
+36,65,Male,59.78,161.61,Vitamin D,Balanced,Gluten intolerant,Very high,Diabetes,Unhealthy lifestyle,Heart-healthy foods
+37,32,Female,72.37,175.04,Vitamin D,Vegan,Lactose intolerant,Very high,Healthy,General,Protein-rich diet
+38,35,Female,65.9,182.37,Vitamin B12,Low-carb,Gluten intolerant,Low,Blood pressure issues,Bone health,Protein-rich diet
+39,21,Male,61.89,151.24,Vitamin D,Mediterranean,Gluten intolerant,Sedentary,Obesity,General,"Whole grains, lean proteins"
+40,45,Male,52.47,168.3,Vitamin C,Mediterranean,Gluten intolerant,Very high,Obesity,Genetics,Fruits and vegetables
+41,63,Male,72.51,155.02,Vitamin B12,Vegetarian,,Low,Blood pressure issues,Hypertension,Low-fat diet
+42,61,Female,54.59,167.23,Vitamin B12,Vegetarian,,Moderate,Obesity,Weight management,Low-fat diet
+43,31,Male,89.77,171.82,Vitamin B12,,,Very high,Healthy,Hypertension,Colorful fruits and vegetables
+44,53,Male,71.15,150.3,,Balanced,Gluten intolerant,Active,Obesity,Genetics,Colorful fruits and vegetables
+45,43,Male,95.58,175.89,,Vegan,Gluten intolerant,Moderate,High cholesterol,Weight management,Heart-healthy foods
+46,52,Female,54.1,174.69,Vitamin C,Low-carb,Lactose intolerant,Moderate,High cholesterol,Stress,Fortified dairy products
+47,38,Male,69.08,160.71,Vitamin B12,Low-carb,Lactose intolerant,Sedentary,Diabetes,Weight loss,Fruits and vegetables
+48,25,Female,71.92,154.75,Vitamin D,Balanced,Gluten intolerant,Very high,Stress-related,Stress,Protein-rich diet
+49,64,Female,78.07,187.31,,Vegetarian,,Sedentary,Stress-related,Unhealthy lifestyle,Fruits and vegetables
+50,28,Female,62.21,179.84,,Balanced,,Moderate,Obesity,Weight loss,"Balanced diet, portion control"
+51,62,Female,53.64,163.86,Vitamin D,Low-carb,,Active,Obesity,Weight management,"Whole grains, lean proteins"
+52,62,Female,68,182.32,Vitamin B12,,Lactose intolerant,Low,Stress-related,Weight loss,Heart-healthy foods
+53,23,Male,54.9,166.84,Vitamin D,Vegetarian,,Sedentary,Diabetes,Weight loss,Low-fat diet
+54,56,Female,95.49,174.18,Vitamin C,Low-carb,Lactose intolerant,Moderate,Healthy,Genetics,Colorful fruits and vegetables
+55,61,Male,75.92,169.77,Vitamin B12,Vegetarian,Lactose intolerant,Active,Stress-related,Genetics,"Balanced diet, portion control"
+56,63,Female,66.26,161.81,,,Lactose intolerant,Active,Healthy,Bone health,Fruits and vegetables
+57,41,Male,77.94,175.29,Vitamin C,Mediterranean,,Moderate,Stress-related,Genetics,Low-fat diet
+58,49,Male,61.3,180.13,,,Lactose intolerant,Very high,Healthy,Heart disease,"Whole grains, lean proteins"
+59,44,Male,79.73,179.74,Vitamin C,Vegetarian,Gluten intolerant,Moderate,High cholesterol,Hypertension,"Balanced diet, portion control"
+60,35,Male,92.56,167.69,Vitamin D,Vegan,,Very high,Healthy,Stress,Heart-healthy foods
+61,62,Male,87.71,188.07,,Vegetarian,Lactose intolerant,Low,High cholesterol,Stress,Fortified dairy products
+62,20,Male,83.84,164.33,,,Gluten intolerant,Moderate,Obesity,Stress,Protein-rich diet
+63,37,Female,63.36,158.48,Vitamin B12,Low-carb,Gluten intolerant,Moderate,Obesity,Unhealthy lifestyle,Heart-healthy foods
+64,42,Male,79.14,188.44,Vitamin B12,,,Very high,Diabetes,Weight management,Heart-healthy foods
+65,54,Female,52.69,189.77,Vitamin B12,Low-carb,Lactose intolerant,Sedentary,Stress-related,Hypertension,Heart-healthy foods
+66,30,Male,53.34,154.6,,Mediterranean,Lactose intolerant,Low,High cholesterol,Heart disease,Fortified dairy products
+67,35,Female,82.05,151.9,Vitamin B12,Mediterranean,,Sedentary,Obesity,Stress,Colorful fruits and vegetables
+68,29,Male,56.04,160.5,,,,Low,Healthy,Weight management,Fortified dairy products
+69,31,Male,95.87,162.05,Vitamin C,Mediterranean,,Active,Stress-related,Stress,Heart-healthy foods
+70,26,Female,76.67,186.72,Vitamin D,Vegetarian,Gluten intolerant,Very high,Diabetes,Weight loss,Colorful fruits and vegetables
+71,64,Male,53.79,186.4,Vitamin B12,,Lactose intolerant,Low,Diabetes,Weight management,Balanced diet
+72,23,Female,75.48,162.92,Vitamin B12,Low-carb,,Very high,Diabetes,Stress,Heart-healthy foods
+73,30,Male,50.13,163.09,Vitamin C,Vegan,Lactose intolerant,Moderate,Stress-related,Heart disease,Balanced diet
+74,31,Female,55.07,155.78,Vitamin B12,Vegan,Lactose intolerant,Sedentary,Blood pressure issues,Heart disease,Low-fat diet
+75,23,Female,59.43,180.18,,Mediterranean,Gluten intolerant,Low,Diabetes,Unhealthy lifestyle,Fruits and vegetables
+76,39,Female,51.39,154.14,Vitamin D,Mediterranean,,Moderate,Stress-related,Genetics,Colorful fruits and vegetables
+77,57,Male,74.06,164.46,Vitamin D,Mediterranean,,Moderate,Diabetes,Genetics,Low-fat diet
+78,25,Female,85.68,156.23,Vitamin B12,Mediterranean,,Moderate,Blood pressure issues,Stress,Fruits and vegetables
+79,31,Female,75.67,170.69,Vitamin C,,,Moderate,Stress-related,Heart disease,"Whole grains, lean proteins"
+80,61,Male,72.41,173.33,,Low-carb,Lactose intolerant,Sedentary,Diabetes,Weight loss,"Whole grains, lean proteins"
+81,36,Female,52.34,165.91,Vitamin B12,Vegan,Gluten intolerant,Sedentary,Stress-related,Heart disease,Protein-rich diet
+82,18,Female,59.15,161.54,Vitamin D,Mediterranean,Lactose intolerant,Moderate,Diabetes,Weight loss,Balanced diet
+83,56,Female,86.93,178.87,,Mediterranean,Gluten intolerant,Active,High cholesterol,Weight loss,Fruits and vegetables
+84,50,Male,60.59,162.2,Vitamin D,Vegan,Gluten intolerant,Low,Stress-related,Hypertension,Heart-healthy foods
+85,65,Female,78.93,184.62,Vitamin D,Balanced,Gluten intolerant,Moderate,Obesity,Bone health,Heart-healthy foods
+86,56,Male,59,164.82,Vitamin C,Mediterranean,,Active,Blood pressure issues,Bone health,"Balanced diet, portion control"
+87,63,Female,76.27,188.51,Vitamin B12,Balanced,Gluten intolerant,Sedentary,High cholesterol,Hypertension,"Balanced diet, portion control"
+88,23,Female,93.62,188.61,Vitamin D,Vegetarian,Lactose intolerant,Moderate,Obesity,Bone health,Heart-healthy foods
+89,28,Male,80.41,157.13,,Vegan,Lactose intolerant,Very high,Healthy,Hypertension,Low-fat diet
+90,64,Female,98.45,157.39,Vitamin C,,Lactose intolerant,Sedentary,Diabetes,General,Heart-healthy foods
+91,50,Female,89.05,163.18,Vitamin C,Vegan,Gluten intolerant,Very high,Stress-related,Weight loss,Fortified dairy products
+92,53,Female,75.33,158.18,,Vegan,Lactose intolerant,Moderate,Healthy,Genetics,Protein-rich diet
+93,42,Female,59.46,157.78,Vitamin D,Mediterranean,Lactose intolerant,Moderate,Blood pressure issues,General,Balanced diet
+94,28,Male,63.35,156.37,Vitamin D,Balanced,,Very high,Obesity,Stress,Colorful fruits and vegetables
+95,43,Male,90.37,179.99,,,Gluten intolerant,Active,Stress-related,Weight management,Balanced diet
+96,38,Female,57.32,151.77,,Vegan,,Active,Stress-related,Unhealthy lifestyle,Protein-rich diet
+97,63,Male,91.76,174.92,Vitamin D,Vegan,Gluten intolerant,Moderate,High cholesterol,Heart disease,Fortified dairy products
+98,29,Female,69.91,188.08,Vitamin B12,Balanced,Gluten intolerant,Moderate,Blood pressure issues,General,Heart-healthy foods
+99,44,Male,59.95,188.61,Vitamin B12,Vegan,Lactose intolerant,Very high,Healthy,General,"Balanced diet, portion control"
+100,53,Male,86.84,168.11,Vitamin B12,Vegetarian,Gluten intolerant,Sedentary,Blood pressure issues,Heart disease,Heart-healthy foods
+101,34,Female,65.3,186.51,Vitamin D,Vegan,Lactose intolerant,Sedentary,Obesity,General,Fortified dairy products
+102,20,Male,55.7,179.95,Vitamin B12,Low-carb,Gluten intolerant,Low,Stress-related,Bone health,Fortified dairy products
+103,50,Male,60.83,162.18,Vitamin D,Mediterranean,Gluten intolerant,Moderate,Blood pressure issues,Bone health,Protein-rich diet
+104,32,Male,52.93,176.7,,Mediterranean,Lactose intolerant,Low,High cholesterol,Unhealthy lifestyle,"Whole grains, lean proteins"
+105,50,Male,84.41,171.48,Vitamin D,Vegan,,Very high,Healthy,Unhealthy lifestyle,Low-fat diet
+106,63,Male,95.49,160.08,Vitamin B12,Balanced,Lactose intolerant,Very high,Blood pressure issues,Heart disease,Low-fat diet
+107,33,Male,53.68,154.28,,Mediterranean,,Sedentary,High cholesterol,Stress,"Whole grains, lean proteins"
+108,26,Female,93.57,158.85,Vitamin B12,Mediterranean,,Sedentary,High cholesterol,Hypertension,Fruits and vegetables
+109,57,Male,88.97,162.51,,Low-carb,Gluten intolerant,Sedentary,Stress-related,Heart disease,Balanced diet
+110,39,Female,71.44,159.56,Vitamin B12,,Gluten intolerant,Low,High cholesterol,Genetics,"Whole grains, lean proteins"
+111,20,Male,75.85,188.2,,Vegetarian,Gluten intolerant,Very high,Diabetes,Stress,Heart-healthy foods
+112,59,Female,68.85,172.75,Vitamin B12,Low-carb,Lactose intolerant,Sedentary,Obesity,Stress,"Whole grains, lean proteins"
+113,57,Male,64.34,161.97,Vitamin C,Balanced,,Very high,Healthy,Bone health,Protein-rich diet
+114,45,Male,77.77,162.47,Vitamin C,Vegetarian,Gluten intolerant,Active,High cholesterol,General,Low-fat diet
+115,41,Female,54.63,167.9,Vitamin D,Balanced,,Very high,Blood pressure issues,Heart disease,Low-fat diet
+116,35,Female,72.01,161.38,,,Gluten intolerant,Active,Blood pressure issues,Genetics,Colorful fruits and vegetables
+117,64,Female,65.42,171.74,Vitamin B12,Vegetarian,,Active,Obesity,Bone health,Balanced diet
+118,39,Male,84.08,187.81,Vitamin B12,Vegetarian,Gluten intolerant,Active,Healthy,Bone health,"Whole grains, lean proteins"
+119,34,Male,71.92,162.12,,Balanced,Lactose intolerant,Active,Diabetes,Weight management,Fortified dairy products
+120,43,Female,96.96,154.74,,Vegetarian,,Moderate,Diabetes,General,Balanced diet
+121,23,Male,79.44,161.02,Vitamin D,Low-carb,Lactose intolerant,Active,Obesity,Unhealthy lifestyle,Low-fat diet
+122,61,Male,56.73,173.36,Vitamin C,Balanced,Lactose intolerant,Low,Stress-related,Stress,"Whole grains, lean proteins"
+123,38,Female,88.42,185.54,,Mediterranean,,Sedentary,Healthy,Weight loss,Low-fat diet
+124,49,Male,87.23,158.56,,Vegan,,Sedentary,Blood pressure issues,Weight loss,Colorful fruits and vegetables
+125,24,Female,91.04,166.52,Vitamin B12,Balanced,Gluten intolerant,Very high,High cholesterol,Stress,Low-fat diet
+126,39,Male,56.28,169.11,,,Lactose intolerant,Moderate,Stress-related,Bone health,Heart-healthy foods
+127,47,Male,62,154.92,Vitamin D,Vegan,Gluten intolerant,Moderate,Diabetes,Heart disease,Colorful fruits and vegetables
+128,44,Male,64.63,171.1,Vitamin C,Vegetarian,Gluten intolerant,Sedentary,Stress-related,Unhealthy lifestyle,Protein-rich diet
+129,24,Male,85.21,158.44,,,,Moderate,Stress-related,Hypertension,"Balanced diet, portion control"
+130,27,Female,58.07,175.21,Vitamin D,Vegetarian,,Moderate,Stress-related,Weight management,Protein-rich diet
+131,62,Male,85.68,154.3,Vitamin D,Balanced,Gluten intolerant,Sedentary,Obesity,Unhealthy lifestyle,Low-fat diet
+132,57,Male,86.55,176.02,,Vegetarian,,Moderate,High cholesterol,Genetics,Heart-healthy foods
+133,31,Male,67.16,182.82,Vitamin B12,Vegan,Gluten intolerant,Active,Stress-related,Unhealthy lifestyle,Low-fat diet
+134,61,Male,71.68,181.95,Vitamin B12,Vegan,,Sedentary,Obesity,Weight loss,Low-fat diet
+135,64,Female,71.87,171.88,Vitamin D,Vegetarian,Lactose intolerant,Active,Obesity,Stress,"Whole grains, lean proteins"
+136,51,Female,89.44,180.07,,Low-carb,Lactose intolerant,Moderate,Stress-related,Unhealthy lifestyle,Protein-rich diet
+137,46,Male,65.96,168,Vitamin B12,,Gluten intolerant,Very high,Diabetes,Stress,Colorful fruits and vegetables
+138,58,Female,84.95,170.65,Vitamin B12,Mediterranean,Gluten intolerant,Sedentary,Healthy,Bone health,Fortified dairy products
+139,37,Male,96.5,165.55,Vitamin C,Vegetarian,Lactose intolerant,Moderate,Stress-related,Weight loss,"Balanced diet, portion control"
+140,19,Female,79.83,166.72,Vitamin D,Vegetarian,Gluten intolerant,Active,Obesity,Unhealthy lifestyle,"Whole grains, lean proteins"
+141,57,Male,57.53,177.98,,,Gluten intolerant,Very high,Diabetes,Weight loss,Protein-rich diet
+142,23,Male,95.38,182.51,,Balanced,Lactose intolerant,Low,Stress-related,Hypertension,"Whole grains, lean proteins"
+143,59,Male,53.26,176.6,,Vegan,Lactose intolerant,Low,Obesity,Heart disease,Fortified dairy products
+144,21,Male,68.61,158.47,,Vegan,Lactose intolerant,Active,Obesity,Heart disease,"Whole grains, lean proteins"
+145,49,Male,56.2,173.25,Vitamin C,Vegetarian,Lactose intolerant,Sedentary,Stress-related,Hypertension,Low-fat diet
+146,24,Female,77.87,152.25,,,Gluten intolerant,Sedentary,Stress-related,Hypertension,"Whole grains, lean proteins"
+147,36,Female,53.94,186.74,Vitamin B12,Balanced,Gluten intolerant,Moderate,Healthy,Weight loss,Protein-rich diet
+148,19,Male,94.21,162.55,,Vegan,Lactose intolerant,Low,Stress-related,Weight loss,Colorful fruits and vegetables
+149,46,Female,75.42,170.94,Vitamin C,Vegan,Gluten intolerant,Sedentary,Healthy,Genetics,Low-fat diet
+150,56,Female,93.39,185.85,Vitamin B12,Low-carb,Lactose intolerant,Moderate,Stress-related,Stress,Heart-healthy foods
+151,39,Male,85.23,153.32,Vitamin D,Mediterranean,,Moderate,High cholesterol,Stress,Protein-rich diet
+152,59,Male,78.21,155.94,Vitamin D,Vegan,,Sedentary,Obesity,Heart disease,Protein-rich diet
+153,36,Male,60.4,189.77,Vitamin C,Mediterranean,Lactose intolerant,Low,Obesity,Unhealthy lifestyle,Fruits and vegetables
+154,46,Male,93.98,163.65,Vitamin C,Low-carb,,Low,Blood pressure issues,Genetics,Heart-healthy foods
+155,46,Female,60.51,183.86,,,,Moderate,Obesity,Stress,"Balanced diet, portion control"
+156,25,Female,99.81,165.45,,Mediterranean,Gluten intolerant,Low,Healthy,Unhealthy lifestyle,Fruits and vegetables
+157,27,Female,76.8,187.39,Vitamin D,Low-carb,,Very high,Stress-related,Genetics,Fortified dairy products
+158,52,Male,74.56,187.61,,Low-carb,Lactose intolerant,Low,Diabetes,Bone health,Fortified dairy products
+159,54,Male,51.36,154.53,Vitamin B12,Mediterranean,,Very high,Blood pressure issues,Bone health,Heart-healthy foods
+160,57,Male,73.68,178.06,Vitamin C,Vegetarian,,Sedentary,Stress-related,Genetics,Colorful fruits and vegetables
+161,39,Male,53.2,183.31,Vitamin B12,Vegetarian,Gluten intolerant,Low,Stress-related,Unhealthy lifestyle,Fruits and vegetables
+162,24,Female,88.45,179.03,Vitamin C,Vegetarian,,Sedentary,Diabetes,Weight management,Balanced diet
+163,25,Female,95.57,184.94,Vitamin B12,,Gluten intolerant,Sedentary,Diabetes,Weight loss,Protein-rich diet
+164,34,Female,54.15,188.97,Vitamin C,Balanced,,Active,Healthy,Heart disease,Low-fat diet
+165,32,Female,73.73,187.74,,Vegan,Lactose intolerant,Low,Blood pressure issues,Stress,Heart-healthy foods
+166,23,Male,63.3,165.59,Vitamin B12,Vegan,Lactose intolerant,Sedentary,Obesity,Bone health,Heart-healthy foods
+167,50,Female,54.76,172.83,Vitamin B12,Mediterranean,Gluten intolerant,Low,Obesity,General,"Balanced diet, portion control"
+168,53,Female,61.64,151.34,Vitamin B12,Vegetarian,Gluten intolerant,Sedentary,Diabetes,General,Balanced diet
+169,52,Female,70.24,151.3,Vitamin B12,,Lactose intolerant,Low,Obesity,Weight management,Heart-healthy foods
+170,43,Male,50.17,188.3,Vitamin C,Balanced,Lactose intolerant,Moderate,High cholesterol,Heart disease,Fruits and vegetables
+171,27,Female,59.32,154.02,Vitamin D,Vegetarian,Lactose intolerant,Sedentary,Stress-related,Unhealthy lifestyle,Protein-rich diet
+172,59,Female,84.01,158.18,,Balanced,Lactose intolerant,Moderate,High cholesterol,Genetics,Colorful fruits and vegetables
+173,57,Male,84.52,170.27,,Mediterranean,Lactose intolerant,Moderate,Obesity,Hypertension,Fruits and vegetables
+174,23,Male,79.67,164.54,,Low-carb,Lactose intolerant,Moderate,Diabetes,Weight management,Protein-rich diet
+175,59,Female,89.79,160.13,,Vegan,,Active,Stress-related,Weight management,Protein-rich diet
+176,39,Male,85.36,172.27,Vitamin D,Balanced,Lactose intolerant,Active,Diabetes,Stress,Protein-rich diet
+177,61,Male,78.93,182.88,Vitamin B12,Mediterranean,Gluten intolerant,Very high,Diabetes,Bone health,Colorful fruits and vegetables
+178,53,Female,100,185.11,Vitamin D,,Gluten intolerant,Sedentary,Healthy,Unhealthy lifestyle,Heart-healthy foods
+179,20,Female,84.42,162.54,Vitamin C,Low-carb,Lactose intolerant,Low,Healthy,Bone health,Low-fat diet
+180,53,Male,97.62,188.2,Vitamin B12,,,Active,Blood pressure issues,Unhealthy lifestyle,"Whole grains, lean proteins"
+181,38,Male,60.17,178.2,Vitamin D,Low-carb,,Sedentary,Blood pressure issues,Weight management,Low-fat diet
+182,37,Male,94.45,185.96,Vitamin B12,Vegan,,Sedentary,Diabetes,General,Colorful fruits and vegetables
+183,44,Female,67.67,173.25,Vitamin D,Mediterranean,Lactose intolerant,Active,Diabetes,Weight management,"Balanced diet, portion control"
+184,48,Male,68.23,176.06,Vitamin C,Vegan,,Active,Obesity,Stress,Fruits and vegetables
+185,64,Male,65.74,156.35,Vitamin B12,Low-carb,Gluten intolerant,Sedentary,Blood pressure issues,General,Heart-healthy foods
+186,56,Male,96.83,175.91,Vitamin C,Vegetarian,,Sedentary,Healthy,Hypertension,Protein-rich diet
+187,47,Male,91.66,177.74,,Vegan,Gluten intolerant,Low,Blood pressure issues,Heart disease,Fruits and vegetables
+188,56,Female,92.31,172.78,Vitamin C,,,Low,Obesity,Bone health,"Whole grains, lean proteins"
+189,33,Male,65.23,182.13,Vitamin D,Low-carb,Gluten intolerant,Active,High cholesterol,Weight management,Heart-healthy foods
+190,56,Male,84.23,186.74,Vitamin D,,Lactose intolerant,Low,Healthy,Genetics,Protein-rich diet
+191,52,Female,60.53,174.42,,Vegetarian,Gluten intolerant,Active,Stress-related,Weight management,"Balanced diet, portion control"
+192,25,Male,70.66,163.16,,Low-carb,Gluten intolerant,Sedentary,Blood pressure issues,General,Fruits and vegetables
+193,48,Male,99.13,166.71,Vitamin C,,Gluten intolerant,Low,Obesity,Stress,Low-fat diet
+194,22,Female,89.27,177.62,Vitamin C,Balanced,Gluten intolerant,Low,Healthy,Stress,Balanced diet
+195,44,Male,76.12,189.22,Vitamin D,Low-carb,,Sedentary,Healthy,Hypertension,Balanced diet
+196,55,Male,95.39,153.78,,Mediterranean,Lactose intolerant,Low,Diabetes,Stress,Colorful fruits and vegetables
+197,41,Male,80.73,158.76,Vitamin C,Low-carb,Gluten intolerant,Moderate,Healthy,Bone health,Protein-rich diet
+198,40,Male,59.38,169.97,Vitamin B12,Vegan,Gluten intolerant,Active,Stress-related,Unhealthy lifestyle,Fortified dairy products
+199,63,Female,59.71,166.14,Vitamin C,,Lactose intolerant,Sedentary,Blood pressure issues,Weight loss,Heart-healthy foods
+200,62,Female,88.59,155.49,Vitamin D,Low-carb,Lactose intolerant,Very high,Obesity,Weight loss,Low-fat diet
+201,61,Male,81.06,180.91,Vitamin D,Balanced,,Moderate,Diabetes,Hypertension,"Whole grains, lean proteins"
+202,53,Female,93.98,178.63,Vitamin B12,Balanced,,Sedentary,Obesity,Weight management,Low-fat diet
+203,24,Male,80.04,166.16,Vitamin D,Mediterranean,Gluten intolerant,Active,Stress-related,Stress,Fortified dairy products
+204,54,Male,82.82,150.15,Vitamin C,Vegetarian,Gluten intolerant,Low,Blood pressure issues,Heart disease,Fruits and vegetables
+205,28,Male,90.09,168.15,Vitamin D,Low-carb,Lactose intolerant,Very high,Healthy,Weight loss,Protein-rich diet
+206,18,Female,79.21,161.34,Vitamin D,,Gluten intolerant,Active,High cholesterol,Weight management,Fruits and vegetables
+207,19,Male,50.02,187.08,Vitamin B12,Balanced,Gluten intolerant,Sedentary,Obesity,Heart disease,Fruits and vegetables
+208,54,Male,60.4,159,Vitamin B12,Low-carb,Gluten intolerant,Very high,Diabetes,Weight loss,Heart-healthy foods
+209,41,Female,96.48,181.06,Vitamin D,Balanced,Lactose intolerant,Low,Blood pressure issues,Bone health,Balanced diet
+210,19,Female,57.54,157.48,Vitamin B12,Balanced,,Low,Obesity,Heart disease,"Whole grains, lean proteins"
+211,22,Male,65.15,162.7,Vitamin C,Mediterranean,,Active,Obesity,Stress,"Whole grains, lean proteins"
+212,61,Male,97.12,178.21,Vitamin C,Balanced,Lactose intolerant,Very high,Stress-related,Weight loss,Fortified dairy products
+213,60,Female,87.04,158.28,Vitamin B12,,,Active,Healthy,Unhealthy lifestyle,Heart-healthy foods
+214,35,Male,87.72,155.52,Vitamin B12,Vegan,Lactose intolerant,Sedentary,Blood pressure issues,Bone health,Heart-healthy foods
+215,43,Female,95.89,158.14,Vitamin C,Low-carb,,Active,High cholesterol,Weight management,Colorful fruits and vegetables
+216,28,Female,74.09,155.02,Vitamin D,Vegetarian,Lactose intolerant,Very high,Blood pressure issues,Hypertension,Balanced diet
+217,20,Male,89.51,186.29,Vitamin D,,,Very high,High cholesterol,Stress,Fruits and vegetables
+218,53,Female,88.06,171.41,Vitamin D,Vegetarian,Gluten intolerant,Very high,Healthy,Bone health,"Whole grains, lean proteins"
+219,57,Female,89.79,152.37,,Balanced,,Sedentary,Diabetes,Unhealthy lifestyle,"Balanced diet, portion control"
+220,42,Male,73.51,181.44,Vitamin B12,Vegan,Lactose intolerant,Low,Healthy,Unhealthy lifestyle,"Balanced diet, portion control"
+221,18,Female,53.6,170.74,Vitamin D,Vegetarian,Gluten intolerant,Low,Blood pressure issues,General,Protein-rich diet
+222,37,Female,74.87,176.75,,Vegan,Gluten intolerant,Sedentary,Blood pressure issues,Heart disease,"Whole grains, lean proteins"
+223,22,Female,68.11,153.74,Vitamin C,Vegetarian,Lactose intolerant,Very high,Stress-related,Weight management,"Balanced diet, portion control"
+224,18,Female,55.7,151.91,Vitamin B12,Vegan,Gluten intolerant,Moderate,Blood pressure issues,Genetics,Colorful fruits and vegetables
+225,65,Male,55.47,155.79,Vitamin C,Low-carb,Lactose intolerant,Very high,Diabetes,General,Balanced diet
+226,64,Male,95.17,166.11,Vitamin C,Low-carb,,Active,Obesity,Genetics,Balanced diet
+227,65,Male,51.81,165.48,,Mediterranean,,Sedentary,Healthy,General,"Whole grains, lean proteins"
+228,61,Male,99.73,182.98,Vitamin C,Low-carb,Lactose intolerant,Active,Stress-related,Hypertension,Heart-healthy foods
+229,36,Male,57.95,167.93,Vitamin D,,Lactose intolerant,Sedentary,High cholesterol,Heart disease,"Balanced diet, portion control"
+230,29,Female,50.78,176.67,,,Gluten intolerant,Very high,High cholesterol,Genetics,"Whole grains, lean proteins"
+231,33,Female,88.34,158.78,,,Gluten intolerant,Very high,Diabetes,Weight loss,Fortified dairy products
+232,29,Female,85.55,165.71,Vitamin D,Vegan,Gluten intolerant,Sedentary,Blood pressure issues,Bone health,Balanced diet
+233,45,Female,98.65,170.23,,Balanced,Lactose intolerant,Low,Stress-related,Stress,Balanced diet
+234,33,Female,51.07,179.15,,Low-carb,,Moderate,Obesity,Heart disease,Heart-healthy foods
+235,50,Female,59.39,169.02,,Low-carb,Gluten intolerant,Sedentary,Diabetes,Stress,"Whole grains, lean proteins"
+236,49,Male,67.09,176.29,Vitamin B12,Balanced,,Sedentary,High cholesterol,Heart disease,Heart-healthy foods
+237,26,Female,55.66,184.11,Vitamin B12,Low-carb,,Moderate,Diabetes,Genetics,Balanced diet
+238,58,Male,86.64,169.5,Vitamin C,Low-carb,Gluten intolerant,Very high,Stress-related,Stress,"Whole grains, lean proteins"
+239,51,Male,76.68,166.25,Vitamin B12,Mediterranean,Gluten intolerant,Low,Obesity,Unhealthy lifestyle,Balanced diet
+240,62,Female,54.97,150.24,,Mediterranean,,Low,Blood pressure issues,Heart disease,Colorful fruits and vegetables
+241,28,Male,95.6,158.58,Vitamin C,Mediterranean,Gluten intolerant,Moderate,Stress-related,Heart disease,Heart-healthy foods
+242,18,Male,98.76,173.01,,,,Sedentary,Obesity,Weight loss,Low-fat diet
+243,61,Female,56.86,155.3,Vitamin C,Balanced,Lactose intolerant,Active,Blood pressure issues,Weight management,Heart-healthy foods
+244,36,Female,85.3,169.56,Vitamin D,Balanced,Lactose intolerant,Moderate,Blood pressure issues,Unhealthy lifestyle,"Whole grains, lean proteins"
+245,49,Male,53.97,162.58,,Balanced,,Active,Diabetes,Genetics,Fruits and vegetables
+246,57,Male,59.71,154.99,Vitamin D,Mediterranean,Lactose intolerant,Moderate,Blood pressure issues,Stress,Colorful fruits and vegetables
+247,36,Female,76.4,163.85,,Mediterranean,Lactose intolerant,Low,Blood pressure issues,Stress,Fortified dairy products
+248,64,Male,77.44,153.23,,Balanced,,Active,Obesity,Weight management,"Balanced diet, portion control"
+249,60,Female,71.88,165.44,Vitamin B12,Low-carb,Gluten intolerant,Active,High cholesterol,Stress,Fortified dairy products
+250,37,Male,98.91,182.19,Vitamin B12,Mediterranean,,Moderate,High cholesterol,Bone health,Fruits and vegetables
+251,25,Male,97.19,172.68,Vitamin B12,Mediterranean,Lactose intolerant,Low,Healthy,Weight management,"Whole grains, lean proteins"
+252,25,Male,97.8,157.44,Vitamin C,Mediterranean,Gluten intolerant,Active,High cholesterol,General,Heart-healthy foods
+253,25,Male,51.95,171.08,Vitamin C,Vegan,Lactose intolerant,Active,Blood pressure issues,Weight loss,Colorful fruits and vegetables
+254,60,Male,50.69,185.67,Vitamin D,Balanced,Lactose intolerant,Active,Diabetes,Weight management,Heart-healthy foods
+255,27,Male,50.36,158.44,Vitamin B12,Balanced,Lactose intolerant,Sedentary,Healthy,Bone health,Low-fat diet
+256,27,Male,86.91,164.66,Vitamin B12,,,Moderate,Blood pressure issues,Hypertension,Colorful fruits and vegetables
+257,39,Male,54.85,169.11,Vitamin D,Mediterranean,,Sedentary,Blood pressure issues,General,Colorful fruits and vegetables
+258,42,Female,83.7,179.6,Vitamin C,Low-carb,Lactose intolerant,Very high,Blood pressure issues,Weight management,Fruits and vegetables
+259,56,Female,74.83,175.84,,Mediterranean,Gluten intolerant,Sedentary,Blood pressure issues,Bone health,Fortified dairy products
+260,32,Female,55.96,172.73,Vitamin D,Balanced,,Active,Diabetes,Genetics,Low-fat diet
+261,22,Male,99.17,151.02,,Vegetarian,Gluten intolerant,Active,Healthy,Genetics,"Balanced diet, portion control"
+262,63,Male,92.24,182.07,,Low-carb,Gluten intolerant,Moderate,Healthy,Bone health,Low-fat diet
+263,35,Female,53.16,158.87,Vitamin C,Vegetarian,Lactose intolerant,Very high,Stress-related,Stress,"Whole grains, lean proteins"
+264,57,Female,88.56,172.31,Vitamin D,Balanced,,Low,Obesity,General,Low-fat diet
+265,25,Female,98.57,184.45,Vitamin C,Mediterranean,,Sedentary,Blood pressure issues,General,Balanced diet
+266,23,Female,97.68,181.96,Vitamin C,Balanced,,Moderate,Blood pressure issues,Weight loss,"Whole grains, lean proteins"
+267,35,Male,72.4,185.35,Vitamin D,Mediterranean,,Very high,Healthy,Stress,Fruits and vegetables
+268,55,Male,75.58,181.79,Vitamin C,Low-carb,Gluten intolerant,Active,Diabetes,Bone health,Protein-rich diet
+269,51,Female,77.75,176.92,Vitamin D,Low-carb,Lactose intolerant,Low,High cholesterol,Genetics,Fortified dairy products
+270,63,Female,98.23,186.02,Vitamin B12,Vegan,,Very high,High cholesterol,Stress,Fortified dairy products
+271,29,Female,53.15,153.93,Vitamin D,Vegan,Lactose intolerant,Sedentary,Diabetes,General,Fruits and vegetables
+272,63,Female,92.53,161.81,Vitamin B12,Low-carb,Lactose intolerant,Moderate,Stress-related,Bone health,"Whole grains, lean proteins"
+273,28,Male,61.61,152.74,,Vegan,,Low,Stress-related,Unhealthy lifestyle,Protein-rich diet
+274,18,Female,77.31,169.98,Vitamin B12,Vegan,,Active,Stress-related,Genetics,Low-fat diet
+275,18,Male,82.18,153.83,,Vegan,,Low,Stress-related,Unhealthy lifestyle,Colorful fruits and vegetables
+276,53,Male,58.24,170.32,Vitamin B12,,Gluten intolerant,Moderate,Healthy,Weight loss,Protein-rich diet
+277,41,Male,64.69,186.3,Vitamin D,Low-carb,Lactose intolerant,Low,Diabetes,Weight loss,Fortified dairy products
+278,46,Female,52.47,171.45,Vitamin C,Vegetarian,Gluten intolerant,Very high,Stress-related,Stress,Protein-rich diet
+279,53,Male,71.52,184.65,Vitamin C,,Lactose intolerant,Very high,Diabetes,Weight management,Colorful fruits and vegetables
+280,22,Female,60.67,176.76,Vitamin B12,,,Low,Blood pressure issues,Weight loss,"Balanced diet, portion control"
+281,50,Female,81.65,182.29,Vitamin B12,Vegetarian,Lactose intolerant,Very high,Healthy,Heart disease,"Whole grains, lean proteins"
+282,61,Female,93.12,177.48,Vitamin B12,Vegan,Lactose intolerant,Low,Obesity,Unhealthy lifestyle,Fortified dairy products
+283,29,Female,73.7,174.62,Vitamin B12,Mediterranean,Lactose intolerant,Low,Diabetes,Unhealthy lifestyle,Protein-rich diet
+284,39,Male,54.03,189.05,,,,Low,Diabetes,Heart disease,"Whole grains, lean proteins"
+285,55,Female,83.26,175.22,Vitamin D,Vegan,Gluten intolerant,Sedentary,High cholesterol,Weight loss,Fruits and vegetables
+286,25,Female,73.41,151.48,Vitamin C,Vegan,Lactose intolerant,Moderate,Stress-related,Hypertension,"Balanced diet, portion control"
+287,46,Female,98.99,159.68,,,Gluten intolerant,Sedentary,High cholesterol,Genetics,Fortified dairy products
+288,58,Male,75.08,181.27,Vitamin B12,,,Sedentary,Stress-related,Weight management,Protein-rich diet
+289,41,Female,52.35,174,Vitamin B12,Vegan,Gluten intolerant,Low,Obesity,Weight management,"Balanced diet, portion control"
+290,32,Male,63.78,175.92,Vitamin D,Low-carb,Lactose intolerant,Low,Stress-related,Heart disease,Fruits and vegetables
+291,38,Female,91.8,186.7,,Low-carb,Gluten intolerant,Sedentary,Healthy,Stress,"Balanced diet, portion control"
+292,47,Male,57.24,170.45,Vitamin D,Balanced,,Active,Stress-related,Bone health,Colorful fruits and vegetables
+293,50,Female,72.25,153.25,Vitamin B12,Low-carb,Gluten intolerant,Moderate,Healthy,Genetics,Balanced diet
+294,53,Female,96.11,155.1,Vitamin B12,Balanced,,Very high,Obesity,Bone health,Protein-rich diet
+295,28,Male,61.72,163.58,Vitamin B12,Mediterranean,Gluten intolerant,Active,Healthy,Bone health,"Whole grains, lean proteins"
+296,41,Female,81.48,160.34,Vitamin D,Mediterranean,,Active,Blood pressure issues,Heart disease,"Balanced diet, portion control"
+297,50,Male,76.29,169.09,Vitamin B12,Low-carb,Gluten intolerant,Active,Stress-related,Unhealthy lifestyle,Colorful fruits and vegetables
+298,45,Female,61.11,174.43,,Mediterranean,Lactose intolerant,Very high,Stress-related,Bone health,"Whole grains, lean proteins"
+299,30,Female,91.08,167.94,Vitamin D,Mediterranean,Lactose intolerant,Very high,Stress-related,Unhealthy lifestyle,"Balanced diet, portion control"
+300,41,Female,64.61,160.26,,Mediterranean,,Active,Blood pressure issues,Weight management,Fruits and vegetables
+301,30,Male,59.35,162.71,Vitamin B12,Vegan,Lactose intolerant,Very high,Healthy,Genetics,Fruits and vegetables
+302,29,Male,55.06,187.39,Vitamin B12,Mediterranean,,Very high,High cholesterol,Genetics,Low-fat diet
+303,23,Male,83.61,158.97,Vitamin D,Vegan,Gluten intolerant,Active,Obesity,Weight management,Fortified dairy products
+304,36,Male,97.93,166.82,Vitamin B12,Balanced,,Sedentary,Stress-related,Heart disease,Fruits and vegetables
+305,20,Male,62.11,157.29,Vitamin C,Vegan,,Very high,Stress-related,Genetics,"Whole grains, lean proteins"
+306,31,Male,74.26,175.79,Vitamin D,Low-carb,Lactose intolerant,Low,Healthy,Bone health,Colorful fruits and vegetables
+307,22,Female,92.08,174.07,Vitamin B12,Low-carb,Lactose intolerant,Active,High cholesterol,Stress,"Whole grains, lean proteins"
+308,23,Male,80.85,165.28,,Mediterranean,Gluten intolerant,Sedentary,Obesity,Genetics,Fortified dairy products
+309,34,Female,97.12,181.71,Vitamin D,Mediterranean,Gluten intolerant,Active,Blood pressure issues,General,Fortified dairy products
+310,29,Male,90.39,151.93,,Mediterranean,Lactose intolerant,Active,High cholesterol,Unhealthy lifestyle,Balanced diet
+311,62,Female,88.02,159.65,,,,Low,Stress-related,Hypertension,Balanced diet
+312,34,Male,73.68,181.99,Vitamin B12,Vegan,,Active,Stress-related,General,Low-fat diet
+313,57,Female,62.66,166.36,Vitamin D,Balanced,Lactose intolerant,Active,Healthy,Stress,Balanced diet
+314,30,Male,63.23,188.53,Vitamin B12,,Gluten intolerant,Moderate,Stress-related,Unhealthy lifestyle,"Whole grains, lean proteins"
+315,63,Male,98.47,171.81,Vitamin D,,Lactose intolerant,Sedentary,Obesity,Unhealthy lifestyle,Low-fat diet
+316,22,Female,80.57,154.02,Vitamin C,Mediterranean,Gluten intolerant,Sedentary,Healthy,Unhealthy lifestyle,Protein-rich diet
+317,42,Female,99.29,154.94,,Vegan,Lactose intolerant,Active,Stress-related,Hypertension,Colorful fruits and vegetables
+318,39,Male,56.94,168.34,Vitamin D,Vegetarian,Gluten intolerant,Low,Stress-related,Heart disease,Fruits and vegetables
+319,51,Male,99.51,178.53,Vitamin D,Balanced,Gluten intolerant,Low,Obesity,Bone health,Fortified dairy products
+320,50,Female,69.05,153.63,Vitamin B12,Low-carb,,Low,Obesity,Bone health,Protein-rich diet
+321,56,Male,71.79,163.72,Vitamin D,Mediterranean,Lactose intolerant,Low,High cholesterol,Heart disease,Fortified dairy products
+322,18,Female,66.55,178.05,Vitamin D,Vegetarian,Lactose intolerant,Moderate,Obesity,Bone health,Low-fat diet
+323,52,Male,78.18,154.26,Vitamin B12,Mediterranean,,Moderate,High cholesterol,Unhealthy lifestyle,"Whole grains, lean proteins"
+324,63,Male,77.1,156.62,Vitamin C,Balanced,,Moderate,Blood pressure issues,Bone health,Protein-rich diet
+325,33,Male,69.55,179.07,Vitamin D,Balanced,Lactose intolerant,Sedentary,Stress-related,Heart disease,Low-fat diet
+326,26,Male,72.48,158.3,Vitamin C,Balanced,Gluten intolerant,Active,Stress-related,Weight loss,Balanced diet
+327,60,Male,95.12,157.72,Vitamin B12,Low-carb,Lactose intolerant,Low,Stress-related,Weight management,Low-fat diet
+328,32,Female,63.68,162.21,,Vegan,,Low,Healthy,Stress,"Whole grains, lean proteins"
+329,34,Female,83.88,176.04,Vitamin B12,Vegan,Gluten intolerant,Low,Blood pressure issues,Stress,Heart-healthy foods
+330,38,Female,68.14,168.22,,Vegetarian,Gluten intolerant,Moderate,Diabetes,Heart disease,Heart-healthy foods
+331,42,Male,80.28,162.81,,Vegan,Gluten intolerant,Low,Diabetes,Weight loss,Balanced diet
+332,34,Female,85.84,168.04,Vitamin C,Vegan,,Moderate,Diabetes,Stress,"Whole grains, lean proteins"
+333,30,Male,70.57,152.42,Vitamin D,,,Active,Obesity,Genetics,Balanced diet
+334,41,Female,73.34,184.84,Vitamin C,,,Moderate,High cholesterol,Stress,Balanced diet
+335,56,Female,96.97,156.92,,Balanced,,Moderate,Healthy,General,Fortified dairy products
+336,20,Male,84.7,160.76,Vitamin B12,Vegetarian,Gluten intolerant,Sedentary,Stress-related,General,Protein-rich diet
+337,56,Female,76.14,172.49,Vitamin C,Vegetarian,Lactose intolerant,Sedentary,Healthy,Bone health,Balanced diet
+338,54,Female,74.08,176.59,,Mediterranean,Lactose intolerant,Moderate,Stress-related,Stress,Fruits and vegetables
+339,48,Male,59.25,179.99,Vitamin C,Balanced,Lactose intolerant,Active,Diabetes,Stress,Protein-rich diet
+340,48,Male,64.18,187.34,,Vegan,,Very high,Diabetes,Weight management,Fruits and vegetables
+341,52,Male,79.62,165.67,,Vegan,,Low,Blood pressure issues,Heart disease,Fruits and vegetables
+342,26,Male,96.84,152.78,,Mediterranean,,Active,Diabetes,Weight management,"Balanced diet, portion control"
+343,62,Female,59.32,165.48,Vitamin C,Balanced,,Very high,High cholesterol,General,"Balanced diet, portion control"
+344,46,Female,64.6,176.99,Vitamin B12,Vegetarian,Gluten intolerant,Sedentary,Diabetes,Heart disease,Protein-rich diet
+345,41,Male,98.12,183.54,Vitamin D,Mediterranean,Lactose intolerant,Very high,Healthy,Bone health,Protein-rich diet
+346,57,Female,58.24,158.18,Vitamin C,Vegetarian,Lactose intolerant,Sedentary,Obesity,Hypertension,Fruits and vegetables
+347,28,Male,67.01,168.8,Vitamin C,Balanced,,Active,Obesity,Hypertension,Heart-healthy foods
+348,33,Female,97.02,179.9,,,Gluten intolerant,Active,Blood pressure issues,General,Colorful fruits and vegetables
+349,34,Male,59.71,184.11,Vitamin C,Vegan,Gluten intolerant,Moderate,High cholesterol,Genetics,Heart-healthy foods
+350,61,Male,51.53,169.24,Vitamin D,,Lactose intolerant,Active,Healthy,Bone health,Protein-rich diet
+351,33,Male,58.16,155.22,Vitamin D,Mediterranean,Lactose intolerant,Very high,Blood pressure issues,General,"Balanced diet, portion control"
+352,49,Female,58.34,179.62,Vitamin C,Vegetarian,Lactose intolerant,Active,Diabetes,Stress,"Balanced diet, portion control"
+353,34,Female,55.62,155.29,Vitamin B12,,,Sedentary,Healthy,Weight loss,Fortified dairy products
+354,64,Male,66.56,154.4,Vitamin B12,Mediterranean,,Very high,Obesity,Stress,"Balanced diet, portion control"
+355,19,Male,68.71,181.1,,Mediterranean,Lactose intolerant,Very high,Blood pressure issues,Hypertension,Low-fat diet
+356,58,Female,77.84,153.01,Vitamin B12,Balanced,,Sedentary,Stress-related,Weight loss,Colorful fruits and vegetables
+357,18,Male,69.18,183.37,Vitamin D,Mediterranean,Gluten intolerant,Sedentary,Obesity,Weight management,Fruits and vegetables
+358,18,Female,84.1,168.25,,Balanced,Gluten intolerant,Low,Obesity,Stress,Fortified dairy products
+359,21,Male,79.6,173.35,Vitamin D,Balanced,,Sedentary,Healthy,Bone health,Protein-rich diet
+360,58,Female,59.47,173.88,,Vegetarian,,Sedentary,Stress-related,Hypertension,Low-fat diet
+361,31,Female,66.92,150.31,Vitamin B12,Vegetarian,Lactose intolerant,Sedentary,Blood pressure issues,General,"Balanced diet, portion control"
+362,27,Female,58.69,155.57,Vitamin B12,Vegetarian,Lactose intolerant,Very high,Diabetes,Weight management,"Whole grains, lean proteins"
+363,52,Male,55.13,155.68,Vitamin D,Low-carb,Gluten intolerant,Very high,Blood pressure issues,Bone health,Low-fat diet
+364,22,Male,75.25,161.02,Vitamin B12,Mediterranean,,Active,High cholesterol,Heart disease,Fortified dairy products
+365,56,Female,86.42,182.71,Vitamin C,Mediterranean,,Sedentary,High cholesterol,Unhealthy lifestyle,"Whole grains, lean proteins"
+366,46,Female,78.7,162.59,Vitamin D,Vegan,Lactose intolerant,Moderate,Diabetes,Hypertension,Protein-rich diet
+367,25,Female,72.52,182.98,Vitamin B12,Mediterranean,Gluten intolerant,Active,Blood pressure issues,Stress,Colorful fruits and vegetables
+368,40,Male,88.98,189.96,Vitamin B12,Vegetarian,Gluten intolerant,Very high,High cholesterol,Weight management,Fruits and vegetables
+369,34,Male,87.98,182.93,Vitamin D,,Gluten intolerant,Very high,Blood pressure issues,Genetics,Balanced diet
+370,55,Female,73.8,163.12,Vitamin D,Vegetarian,Gluten intolerant,Low,High cholesterol,Heart disease,Low-fat diet
+371,49,Male,63.81,153.6,Vitamin C,Low-carb,Gluten intolerant,Sedentary,Stress-related,General,Low-fat diet
+372,19,Female,77.08,174.83,Vitamin D,,,Sedentary,Obesity,Weight management,Colorful fruits and vegetables
+373,35,Male,91.64,172.08,Vitamin D,Balanced,,Moderate,Diabetes,Weight loss,Fortified dairy products
+374,62,Female,70.56,155.85,Vitamin D,Low-carb,Lactose intolerant,Active,Diabetes,Hypertension,Fruits and vegetables
+375,63,Female,68.59,176.25,Vitamin D,Vegan,Gluten intolerant,Low,Obesity,General,Fortified dairy products
+376,37,Female,51.37,184.92,,Low-carb,,Sedentary,High cholesterol,Unhealthy lifestyle,"Balanced diet, portion control"
+377,54,Male,98.35,160.92,Vitamin D,Vegetarian,,Moderate,Healthy,Weight loss,Balanced diet
+378,30,Male,93.2,188.47,Vitamin B12,Balanced,Gluten intolerant,Low,Healthy,Unhealthy lifestyle,Colorful fruits and vegetables
+379,43,Male,93.71,174.49,Vitamin B12,Balanced,Gluten intolerant,Low,Stress-related,General,Fortified dairy products
+380,21,Female,72.75,182.25,Vitamin D,Low-carb,Gluten intolerant,Sedentary,Stress-related,Stress,Heart-healthy foods
+381,33,Male,67.69,179.7,,Vegetarian,Lactose intolerant,Active,High cholesterol,Heart disease,Fruits and vegetables
+382,42,Female,61.61,189.26,Vitamin B12,Low-carb,,Low,Healthy,Unhealthy lifestyle,Fortified dairy products
+383,65,Female,51.13,186.92,Vitamin C,Vegan,,Active,High cholesterol,Weight loss,Fruits and vegetables
+384,43,Male,57.4,182.23,Vitamin C,,,Active,Stress-related,Unhealthy lifestyle,Fortified dairy products
+385,35,Male,82.64,172.82,Vitamin C,,,Sedentary,Healthy,Genetics,Balanced diet
+386,36,Male,97.32,158.45,Vitamin D,Mediterranean,Gluten intolerant,Very high,Obesity,Bone health,Low-fat diet
+387,24,Male,62.77,178.94,Vitamin D,Balanced,Gluten intolerant,Moderate,Diabetes,Weight loss,Balanced diet
+388,65,Male,67.13,170.36,Vitamin D,Mediterranean,Gluten intolerant,Moderate,Diabetes,Hypertension,Fruits and vegetables
+389,37,Female,79.12,153.67,Vitamin C,Vegetarian,Lactose intolerant,Moderate,Diabetes,Weight management,Fruits and vegetables
+390,49,Female,77.09,183.03,Vitamin B12,,,Moderate,Diabetes,Weight loss,Protein-rich diet
+391,48,Male,70.38,162.04,Vitamin C,Balanced,,Sedentary,Obesity,Bone health,"Balanced diet, portion control"
+392,27,Male,92.71,151.16,Vitamin B12,Vegetarian,,Low,Diabetes,Bone health,Protein-rich diet
+393,21,Male,74.65,165.88,Vitamin B12,Mediterranean,Lactose intolerant,Very high,Healthy,Weight loss,Low-fat diet
+394,49,Male,95,183.38,,Low-carb,,Very high,Blood pressure issues,Heart disease,Heart-healthy foods
+395,52,Female,57.53,185.77,Vitamin C,Mediterranean,Lactose intolerant,Low,Healthy,Unhealthy lifestyle,"Whole grains, lean proteins"
+396,41,Male,85.81,184.13,Vitamin D,,Gluten intolerant,Low,Obesity,Stress,Heart-healthy foods
+397,28,Male,80.6,182.08,,,Lactose intolerant,Moderate,Blood pressure issues,Unhealthy lifestyle,Balanced diet
+398,48,Female,97.44,166.25,Vitamin D,,Lactose intolerant,Very high,Diabetes,General,Fruits and vegetables
+399,41,Female,99.85,188.92,,Mediterranean,Gluten intolerant,Sedentary,Blood pressure issues,Weight loss,"Whole grains, lean proteins"
+400,65,Female,73.57,154.03,Vitamin D,Mediterranean,Gluten intolerant,Active,Obesity,General,"Balanced diet, portion control"
+401,45,Female,59.58,161.76,Vitamin D,Mediterranean,Lactose intolerant,Very high,Diabetes,Unhealthy lifestyle,Low-fat diet
+402,20,Male,98.08,172.4,Vitamin D,Balanced,,Sedentary,Healthy,Weight loss,Fruits and vegetables
+403,52,Male,77.42,162.75,Vitamin B12,Vegetarian,Lactose intolerant,Active,High cholesterol,General,Colorful fruits and vegetables
+404,19,Female,64.44,171.21,,Vegan,Gluten intolerant,Very high,Diabetes,Bone health,Low-fat diet
+405,35,Male,54.08,164.14,,Mediterranean,Lactose intolerant,Moderate,Stress-related,Unhealthy lifestyle,"Whole grains, lean proteins"
+406,65,Male,69.15,181.16,Vitamin C,Vegetarian,,Very high,Healthy,Genetics,Colorful fruits and vegetables
+407,29,Male,87.53,188.51,Vitamin D,,,Very high,Blood pressure issues,Heart disease,Balanced diet
+408,22,Female,96.22,183.2,Vitamin C,,,Sedentary,Diabetes,Weight management,Balanced diet
+409,24,Female,96.27,172.32,Vitamin D,Vegetarian,,Active,Healthy,Bone health,"Balanced diet, portion control"
+410,39,Male,85.94,167.34,Vitamin C,Mediterranean,Gluten intolerant,Moderate,High cholesterol,Stress,Heart-healthy foods
+411,63,Female,98.07,175.14,,Vegetarian,Lactose intolerant,Active,Stress-related,Bone health,Colorful fruits and vegetables
+412,65,Male,74.92,157.67,Vitamin B12,Low-carb,Lactose intolerant,Low,Obesity,Hypertension,Fortified dairy products
+413,28,Female,60.7,159.65,Vitamin C,Vegetarian,,Low,Blood pressure issues,General,Fortified dairy products
+414,57,Male,69.45,175.77,Vitamin B12,Balanced,Gluten intolerant,Sedentary,Healthy,Bone health,Balanced diet
+415,20,Female,99.33,179,Vitamin D,,Gluten intolerant,Active,Obesity,Stress,Fruits and vegetables
+416,24,Male,85.6,162.13,,,,Moderate,Healthy,Bone health,Balanced diet
+417,18,Female,88.14,176.38,Vitamin B12,Low-carb,Lactose intolerant,Moderate,High cholesterol,Weight management,Heart-healthy foods
+418,62,Male,57.22,159,Vitamin C,Mediterranean,,Sedentary,Healthy,General,Fruits and vegetables
+419,51,Female,64.25,153.03,Vitamin B12,,Gluten intolerant,Active,Diabetes,Genetics,Colorful fruits and vegetables
+420,30,Male,77.28,160.77,,Low-carb,,Sedentary,High cholesterol,Genetics,Fortified dairy products
+421,59,Female,58.52,168.03,Vitamin C,,,Low,High cholesterol,Heart disease,Heart-healthy foods
+422,43,Male,68.1,158.28,Vitamin B12,Vegan,Gluten intolerant,Sedentary,Stress-related,Genetics,Balanced diet
+423,49,Female,96.73,151.25,Vitamin C,Vegetarian,Gluten intolerant,Moderate,Healthy,Bone health,Balanced diet
+424,43,Female,50.22,172.23,Vitamin C,,Lactose intolerant,Moderate,Blood pressure issues,Hypertension,Balanced diet
+425,60,Female,66.71,162.53,Vitamin D,Low-carb,Gluten intolerant,Very high,Blood pressure issues,Hypertension,Fruits and vegetables
+426,38,Male,86.02,178.73,Vitamin C,,,Very high,Diabetes,Heart disease,"Whole grains, lean proteins"
+427,58,Male,79.39,179.57,Vitamin D,Vegan,Gluten intolerant,Sedentary,Obesity,Stress,Low-fat diet
+428,24,Male,68.99,163.95,Vitamin D,Low-carb,,Very high,Stress-related,Weight loss,Low-fat diet
+429,38,Female,73.29,163.16,Vitamin D,Low-carb,,Sedentary,High cholesterol,Heart disease,"Whole grains, lean proteins"
+430,58,Female,80.38,152.02,,Mediterranean,,Very high,Diabetes,Weight loss,Colorful fruits and vegetables
+431,61,Male,73.42,153.12,Vitamin C,Vegan,,Active,Healthy,Stress,Colorful fruits and vegetables
+432,38,Male,98.08,181.84,Vitamin D,,Gluten intolerant,Moderate,Blood pressure issues,Weight management,Colorful fruits and vegetables
+433,30,Female,87,177,Vitamin B12,Vegan,Lactose intolerant,Sedentary,High cholesterol,Unhealthy lifestyle,"Balanced diet, portion control"
+434,24,Female,54.46,170.26,Vitamin D,Vegetarian,Lactose intolerant,Very high,Obesity,Heart disease,"Balanced diet, portion control"
+435,53,Female,69.7,187.74,,Low-carb,,Low,Stress-related,Bone health,"Balanced diet, portion control"
+436,30,Female,86.65,187.11,,,,Low,Blood pressure issues,Heart disease,Heart-healthy foods
+437,25,Female,76.46,172.52,Vitamin B12,,,Low,Healthy,Genetics,Fruits and vegetables
+438,65,Female,76.02,159.83,Vitamin C,Vegetarian,Lactose intolerant,Moderate,Blood pressure issues,Heart disease,Balanced diet
+439,63,Female,65.61,186.76,,Vegetarian,Lactose intolerant,Very high,Obesity,Weight loss,Heart-healthy foods
+440,22,Female,95.97,171,Vitamin C,Balanced,,Active,Blood pressure issues,General,Protein-rich diet
+441,43,Male,78.1,169.88,Vitamin C,,Lactose intolerant,Moderate,High cholesterol,Weight loss,Low-fat diet
+442,63,Male,72.45,177.95,Vitamin B12,Mediterranean,,Sedentary,Stress-related,Bone health,Colorful fruits and vegetables
+443,32,Male,77.68,167.19,Vitamin B12,,,Active,Blood pressure issues,General,Fortified dairy products
+444,38,Female,86.32,187.14,Vitamin D,Vegetarian,,Active,Blood pressure issues,Hypertension,Protein-rich diet
+445,53,Male,75.8,154.19,Vitamin B12,Mediterranean,Lactose intolerant,Very high,Healthy,Heart disease,Protein-rich diet
+446,25,Male,69.67,174.54,,,,Very high,Stress-related,Bone health,Colorful fruits and vegetables
+447,38,Female,63.47,186.8,Vitamin B12,,,Sedentary,Blood pressure issues,Stress,Fruits and vegetables
+448,19,Female,68.36,181.3,Vitamin C,Vegetarian,,Active,High cholesterol,Weight loss,Fortified dairy products
+449,40,Female,82.58,186.16,,Mediterranean,Gluten intolerant,Very high,High cholesterol,Unhealthy lifestyle,Balanced diet
+450,42,Female,57.92,170.97,Vitamin C,Vegetarian,,Very high,High cholesterol,Bone health,"Whole grains, lean proteins"
+451,36,Female,51.9,181.89,Vitamin C,Balanced,Gluten intolerant,Moderate,Blood pressure issues,Heart disease,Low-fat diet
+452,27,Female,70.91,184.15,Vitamin C,Balanced,Lactose intolerant,Active,Healthy,Hypertension,Fortified dairy products
+453,21,Male,65.04,168.78,Vitamin D,Vegetarian,Lactose intolerant,Active,Obesity,Weight loss,Protein-rich diet
+454,65,Female,91.46,179.5,Vitamin D,,,Moderate,Stress-related,Heart disease,Heart-healthy foods
+455,51,Male,53.93,152.77,Vitamin B12,Mediterranean,Gluten intolerant,Moderate,Healthy,Heart disease,Heart-healthy foods
+456,35,Female,52.38,184.11,Vitamin C,Vegetarian,,Sedentary,Stress-related,Unhealthy lifestyle,Colorful fruits and vegetables
+457,53,Female,78.25,180.31,Vitamin C,Vegetarian,,Moderate,Diabetes,Heart disease,Low-fat diet
+458,40,Female,73.12,186.85,Vitamin B12,Vegan,Gluten intolerant,Moderate,Diabetes,Genetics,Heart-healthy foods
+459,28,Male,91.98,180.44,,Mediterranean,Gluten intolerant,Low,Diabetes,Weight loss,Heart-healthy foods
+460,41,Female,75.98,174.55,,Balanced,Gluten intolerant,Very high,Obesity,Stress,Fortified dairy products
+461,51,Female,75.38,183.92,Vitamin D,Mediterranean,Gluten intolerant,Moderate,High cholesterol,Bone health,"Whole grains, lean proteins"
+462,39,Male,81.99,164.76,Vitamin B12,Vegetarian,Lactose intolerant,Very high,Stress-related,General,Fortified dairy products
+463,59,Female,91.91,156.54,Vitamin C,Balanced,,Active,Blood pressure issues,General,Heart-healthy foods
+464,34,Female,83.54,160.55,Vitamin C,Balanced,Gluten intolerant,Moderate,Obesity,Hypertension,Heart-healthy foods
+465,58,Male,55.23,183.52,Vitamin D,Vegan,,Moderate,Healthy,Genetics,"Whole grains, lean proteins"
+466,35,Male,66.54,161.04,Vitamin C,Vegan,Lactose intolerant,Low,High cholesterol,Hypertension,"Balanced diet, portion control"
+467,27,Female,94.56,166.88,Vitamin D,Vegan,,Active,Diabetes,Heart disease,Balanced diet
+468,59,Female,90.22,173.41,Vitamin D,Balanced,Gluten intolerant,Sedentary,Healthy,Heart disease,Protein-rich diet
+469,37,Female,86.68,184.18,Vitamin D,Vegetarian,,Low,Obesity,Bone health,"Balanced diet, portion control"
+470,37,Female,91.1,184.82,Vitamin C,Mediterranean,,Active,Diabetes,Weight management,Low-fat diet
+471,29,Female,99.4,189.34,Vitamin B12,Vegan,Lactose intolerant,Low,Stress-related,General,"Whole grains, lean proteins"
+472,43,Female,78.47,154.3,Vitamin D,Balanced,Gluten intolerant,Active,Obesity,Weight management,Fruits and vegetables
+473,41,Female,93.37,181.56,Vitamin D,Low-carb,,Active,Healthy,Stress,Colorful fruits and vegetables
+474,61,Female,50.06,160.33,Vitamin C,Balanced,,Moderate,Obesity,Weight management,Balanced diet
+475,19,Male,68.94,178.9,Vitamin C,Mediterranean,Gluten intolerant,Moderate,High cholesterol,General,"Whole grains, lean proteins"
+476,43,Male,61.13,176.67,Vitamin C,Vegetarian,Gluten intolerant,Very high,High cholesterol,Hypertension,Balanced diet
+477,63,Male,95.98,159.62,Vitamin D,Vegetarian,,Sedentary,Stress-related,Bone health,Fruits and vegetables
+478,57,Female,64.06,175.09,Vitamin C,Balanced,Lactose intolerant,Very high,Blood pressure issues,Weight loss,Colorful fruits and vegetables
+479,60,Female,70.58,169.39,,,Gluten intolerant,Very high,High cholesterol,Stress,Fruits and vegetables
+480,54,Male,76.02,178,,Balanced,,Very high,High cholesterol,Genetics,Fortified dairy products
+481,25,Female,55.8,150.64,Vitamin B12,,Gluten intolerant,Active,Obesity,Unhealthy lifestyle,Low-fat diet
+482,40,Female,87.42,159.24,Vitamin B12,,Lactose intolerant,Moderate,Stress-related,Stress,Low-fat diet
+483,47,Female,73.88,182.99,Vitamin C,Balanced,Lactose intolerant,Active,Obesity,Bone health,Balanced diet
+484,60,Female,56.91,188.93,,Balanced,Lactose intolerant,Low,High cholesterol,Unhealthy lifestyle,"Whole grains, lean proteins"
+485,31,Female,66.33,157.72,Vitamin B12,Balanced,Lactose intolerant,Active,High cholesterol,Weight loss,"Balanced diet, portion control"
+486,62,Male,51.97,189.52,Vitamin C,Balanced,,Low,Healthy,Stress,Low-fat diet
+487,31,Male,87.76,169.25,Vitamin B12,Low-carb,Lactose intolerant,Active,Diabetes,Stress,Balanced diet
+488,18,Female,89.12,185.85,Vitamin B12,Balanced,Lactose intolerant,Low,Blood pressure issues,Weight management,Balanced diet
+489,18,Female,69.09,170.97,Vitamin B12,,Gluten intolerant,Moderate,High cholesterol,Weight management,Fruits and vegetables
+490,51,Female,57.32,152.1,,Mediterranean,,Moderate,High cholesterol,Genetics,"Whole grains, lean proteins"
+491,54,Female,52.42,182.26,Vitamin D,Mediterranean,Gluten intolerant,Active,Stress-related,General,Heart-healthy foods
+492,55,Male,68.68,182.58,Vitamin D,Vegetarian,Gluten intolerant,Very high,Healthy,Bone health,Fruits and vegetables
+493,42,Female,68.82,152.45,,Balanced,Lactose intolerant,Low,High cholesterol,Weight loss,"Whole grains, lean proteins"
+494,18,Male,71.12,186.63,Vitamin D,,Lactose intolerant,Low,Obesity,Weight loss,Heart-healthy foods
+495,65,Male,53.12,154.53,Vitamin C,Vegan,Lactose intolerant,Moderate,High cholesterol,Bone health,Fortified dairy products
+496,32,Female,54.8,189.66,Vitamin B12,Vegan,Gluten intolerant,Very high,High cholesterol,Weight loss,Colorful fruits and vegetables
+497,49,Male,62.61,168.03,,Low-carb,Lactose intolerant,Moderate,Stress-related,Hypertension,"Whole grains, lean proteins"
+498,28,Male,50.35,168.3,,Vegan,Gluten intolerant,Low,Diabetes,Heart disease,"Whole grains, lean proteins"
+499,52,Male,71.24,187.14,Vitamin C,Vegetarian,,Very high,Diabetes,Weight loss,Fortified dairy products

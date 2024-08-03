@@ -1,0 +1,1001 @@
+Age,Weight,Height,Gender,Vitamin Deficiency,Dietary Preferences,Activity Level,Allergies,Cause,Food Recommendation
+39,50.60076676,198.1574401,Male,Vitamin B,Vegetarian,Moderate,Mild,Heart Disease,Vegetarian Diet
+49,54.5273344,197.0192082,Male,Vitamin A,Vegetarian,Low,None,Diabetes,Balanced Diet
+31,79.15880083,141.9912932,Male,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,Balanced Diet
+27,98.64779882,198.4075729,Male,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+43,74.22659058,162.0324321,Female,Vitamin C,Non-Vegetarian,Low,None,None,Vegetarian Diet
+64,121.2225002,155.3185041,Male,Vitamin C,Non-Vegetarian,Low,Mild,None,Heart-Healthy Diet
+62,54.21832326,193.8340368,Female,Vitamin A,Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+33,76.19964576,161.8057065,Male,Vitamin C,Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+45,98.03805322,168.4587475,Male,Vitamin C,Vegetarian,High,Mild,Diabetes,Vegetarian Diet
+44,137.3330043,185.4046687,Male,Vitamin A,Vegetarian,Low,None,Hypertension,Vegetarian Diet
+42,104.7816019,194.7521815,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+78,40.88283334,150.0810091,Female,Vitamin C,Vegetarian,Moderate,Mild,Heart Disease,Heart-Healthy Diet
+23,142.5342378,189.9256839,Female,Vitamin C,Vegetarian,Low,None,Diabetes,High-Protein Diet
+24,96.85352797,179.0997175,Female,Vitamin B,Non-Vegetarian,High,None,Heart Disease,High-Protein Diet
+61,75.16051156,186.1997613,Male,Vitamin A,Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+42,126.8858715,149.0158802,Female,Vitamin A,Vegetarian,Low,None,Diabetes,Vegetarian Diet
+19,75.64604849,174.0423425,Male,Vitamin A,Non-Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+23,126.830866,145.4528252,Female,Vitamin A,Vegetarian,Moderate,Mild,None,High-Protein Diet
+65,53.14675712,159.6602744,Male,Vitamin C,Non-Vegetarian,High,None,Heart Disease,Low Sodium Diet
+58,73.02250816,141.9741452,Male,Vitamin C,Vegetarian,High,Mild,Hypertension,Heart-Healthy Diet
+28,95.6454024,194.516922,Male,Vitamin A,Vegetarian,High,Mild,None,Low-Carb Diet
+53,69.80998693,191.9052612,Male,Vitamin A,Vegetarian,High,Severe,Diabetes,Low Glycemic Index Diet
+76,142.4827088,195.2898191,Female,Vitamin A,Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+55,137.4748918,159.6917251,Female,Vitamin A,Non-Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+36,80.1821378,168.6999905,Male,Vitamin B,Non-Vegetarian,High,Severe,Hypertension,Vegetarian Diet
+76,69.20455977,196.1883492,Male,Vitamin C,Non-Vegetarian,High,None,None,Low Sodium Diet
+60,118.1261815,178.2842233,Female,Vitamin B,Vegetarian,Moderate,Mild,Diabetes,Low Sodium Diet
+47,128.9060237,197.5899121,Male,Vitamin C,Non-Vegetarian,Low,Severe,Hypertension,Vegetarian Diet
+45,108.8660852,198.9365661,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+55,135.1143511,168.2788248,Female,Vitamin B,Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+57,122.0777608,176.9027443,Male,Vitamin A,Vegetarian,Low,None,Hypertension,Low Sodium Diet
+73,72.50298255,173.1971698,Female,Vitamin B,Non-Vegetarian,High,Severe,None,Heart-Healthy Diet
+51,53.95915417,187.8848485,Male,Vitamin C,Non-Vegetarian,High,None,Heart Disease,Low Sodium Diet
+79,112.702958,145.7839309,Male,Vitamin A,Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+47,139.6615563,164.0503535,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Balanced Diet
+39,44.75022623,180.8096865,Female,Vitamin B,Vegetarian,High,None,Diabetes,Vegetarian Diet
+49,146.7986047,159.954971,Female,Vitamin B,Non-Vegetarian,Low,Mild,None,Vegetarian Diet
+50,83.64074203,162.8829033,Female,Vitamin A,Vegetarian,High,Mild,None,Heart-Healthy Diet
+75,77.74120571,180.947712,Male,Vitamin C,Vegetarian,Moderate,Mild,None,Low Sodium Diet
+50,51.57497343,160.0043712,Female,Vitamin C,Vegetarian,Moderate,None,Diabetes,Low Glycemic Index Diet
+54,136.6825441,188.896203,Female,Vitamin B,Vegetarian,Low,None,Heart Disease,Low Sodium Diet
+76,132.4021157,194.8072275,Female,Vitamin A,Non-Vegetarian,High,None,Diabetes,Low Glycemic Index Diet
+52,48.79670913,170.9433284,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+22,145.2999066,166.6462221,Female,Vitamin C,Non-Vegetarian,Moderate,None,Diabetes,High-Protein Diet
+50,62.91624299,192.1151114,Male,Vitamin C,Vegetarian,High,Mild,Hypertension,Heart-Healthy Diet
+46,44.31573291,140.9040038,Female,Vitamin A,Vegetarian,Moderate,Severe,Hypertension,Vegetarian Diet
+75,74.58452683,185.2487471,Female,Vitamin C,Non-Vegetarian,Moderate,None,Diabetes,Low Sodium Diet
+54,45.68308527,192.1918225,Male,Vitamin B,Non-Vegetarian,High,None,Diabetes,Heart-Healthy Diet
+34,119.0776458,195.8594025,Female,Vitamin B,Vegetarian,Low,None,Hypertension,Balanced Diet
+36,106.4136286,162.6852001,Female,Vitamin C,Vegetarian,High,None,None,Balanced Diet
+25,79.88252224,170.4031706,Male,Vitamin B,Non-Vegetarian,Low,Mild,Hypertension,Low-Carb Diet
+22,49.21030996,176.8254914,Female,Vitamin C,Non-Vegetarian,High,Severe,Heart Disease,High-Protein Diet
+73,106.1337705,189.0155989,Female,Vitamin B,Non-Vegetarian,High,Mild,Heart Disease,Low Glycemic Index Diet
+69,133.2753568,181.1578487,Female,Vitamin C,Non-Vegetarian,High,None,Hypertension,Low Glycemic Index Diet
+56,51.34922649,154.357035,Female,Vitamin C,Vegetarian,High,Severe,Heart Disease,Low Glycemic Index Diet
+24,46.63068202,188.6960633,Female,Vitamin B,Vegetarian,High,Severe,None,Low-Carb Diet
+74,125.6700146,195.4108204,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,Heart-Healthy Diet
+36,46.13754823,157.3471147,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,Hypertension,Balanced Diet
+38,87.86978856,192.4439538,Female,Vitamin A,Vegetarian,Moderate,Mild,Hypertension,Vegetarian Diet
+29,81.2077729,184.1636851,Female,Vitamin A,Vegetarian,Low,None,None,Low-Carb Diet
+71,119.3172985,195.6713772,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,None,Low Sodium Diet
+45,98.6102826,192.3632596,Male,Vitamin C,Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+31,82.75937507,180.2506351,Female,Vitamin A,Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+56,119.843296,175.2361442,Male,Vitamin A,Non-Vegetarian,High,Mild,None,Heart-Healthy Diet
+56,90.69805489,179.2099584,Male,Vitamin C,Non-Vegetarian,High,None,Hypertension,Low Sodium Diet
+35,42.61258173,155.2044081,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Balanced Diet
+50,133.0014975,177.3604614,Female,Vitamin C,Non-Vegetarian,High,None,Diabetes,Heart-Healthy Diet
+37,66.04199478,185.9273148,Female,Vitamin C,Vegetarian,Moderate,None,None,Vegetarian Diet
+38,121.090727,179.8569531,Male,Vitamin A,Non-Vegetarian,Low,None,Hypertension,Vegetarian Diet
+67,116.1914193,187.9556223,Male,Vitamin A,Vegetarian,Low,None,Diabetes,Low Glycemic Index Diet
+33,147.6892731,173.5580289,Female,Vitamin A,Non-Vegetarian,High,None,Heart Disease,Balanced Diet
+67,90.31984168,178.8496935,Male,Vitamin B,Vegetarian,Moderate,None,Diabetes,Heart-Healthy Diet
+27,104.5204235,186.4708513,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Hypertension,High-Protein Diet
+75,128.0569012,193.6954712,Female,Vitamin A,Non-Vegetarian,Low,Mild,Heart Disease,Heart-Healthy Diet
+35,75.20302637,198.7572123,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+33,55.43011856,177.3412324,Male,Vitamin A,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+37,86.51946936,143.7800949,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+56,94.33897804,167.2021046,Female,Vitamin B,Non-Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+53,68.00948714,175.2690444,Female,Vitamin B,Vegetarian,High,Mild,None,Low Sodium Diet
+40,47.47603342,163.6692963,Female,Vitamin C,Vegetarian,High,None,None,Vegetarian Diet
+56,84.07595243,185.7397202,Male,Vitamin A,Vegetarian,Moderate,None,Heart Disease,Low Glycemic Index Diet
+32,122.7799511,154.3842942,Female,Vitamin C,Non-Vegetarian,Low,Severe,None,Balanced Diet
+31,147.2419211,188.1066276,Female,Vitamin C,Vegetarian,Low,None,Diabetes,Vegetarian Diet
+63,86.61460251,150.6415749,Female,Vitamin B,Vegetarian,Moderate,Severe,Heart Disease,Heart-Healthy Diet
+43,63.01948521,188.426988,Female,Vitamin C,Non-Vegetarian,High,Severe,Heart Disease,Vegetarian Diet
+21,137.6279644,191.9003239,Male,Vitamin A,Vegetarian,Moderate,Mild,None,High-Protein Diet
+51,125.422914,178.1498966,Female,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+73,130.4538763,157.6649599,Male,Vitamin B,Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+24,144.3109061,188.1670412,Female,Vitamin A,Vegetarian,High,Severe,Diabetes,High-Protein Diet
+73,76.66857564,188.495732,Male,Vitamin C,Vegetarian,Low,None,Heart Disease,Low Glycemic Index Diet
+78,53.38005287,199.0837227,Female,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Heart-Healthy Diet
+40,142.2170014,163.5293051,Male,Vitamin C,Non-Vegetarian,High,Severe,Diabetes,Vegetarian Diet
+66,57.07294437,199.6370817,Female,Vitamin A,Vegetarian,Low,None,Diabetes,Low Glycemic Index Diet
+49,136.1795601,159.1590666,Male,Vitamin C,Vegetarian,High,Severe,Diabetes,Vegetarian Diet
+74,116.9577688,149.711028,Male,Vitamin B,Vegetarian,High,Mild,Heart Disease,Low Sodium Diet
+58,63.39739634,151.0378187,Male,Vitamin A,Vegetarian,Low,Severe,None,Low Sodium Diet
+64,103.2172621,173.9157249,Male,Vitamin C,Non-Vegetarian,Low,None,Hypertension,Heart-Healthy Diet
+79,102.9146313,178.5379109,Male,Vitamin A,Non-Vegetarian,Low,None,Heart Disease,Heart-Healthy Diet
+56,137.1019133,149.8865141,Male,Vitamin C,Non-Vegetarian,Moderate,None,None,Low Sodium Diet
+58,50.04372394,175.9985436,Female,Vitamin B,Non-Vegetarian,High,Severe,Heart Disease,Low Glycemic Index Diet
+39,87.14425683,199.2997906,Female,Vitamin B,Non-Vegetarian,High,Mild,Heart Disease,Vegetarian Diet
+58,54.67919902,168.6041349,Male,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,Heart-Healthy Diet
+46,44.95831318,185.4542983,Male,Vitamin C,Vegetarian,High,Mild,Heart Disease,Vegetarian Diet
+26,84.22046082,167.1617295,Female,Vitamin C,Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+63,139.430652,191.2259302,Female,Vitamin C,Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+47,64.23427429,163.9138555,Female,Vitamin C,Vegetarian,High,Mild,None,Balanced Diet
+40,141.6837218,160.6475026,Male,Vitamin C,Vegetarian,Low,None,Hypertension,Balanced Diet
+56,68.82702218,172.688668,Male,Vitamin B,Non-Vegetarian,High,None,Hypertension,Heart-Healthy Diet
+25,70.80799543,141.2925027,Female,Vitamin B,Vegetarian,Moderate,Mild,Hypertension,Balanced Diet
+31,71.04846576,197.2595104,Female,Vitamin B,Vegetarian,Low,Mild,None,Balanced Diet
+18,79.5567287,150.0645149,Male,Vitamin C,Non-Vegetarian,Moderate,None,Diabetes,High-Protein Diet
+71,135.7446337,146.7822242,Female,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Low Glycemic Index Diet
+29,141.4398637,142.4599825,Female,Vitamin B,Non-Vegetarian,Low,None,None,High-Protein Diet
+37,101.1038414,154.9192714,Female,Vitamin A,Non-Vegetarian,Low,Mild,Hypertension,Vegetarian Diet
+57,118.988778,174.8465936,Female,Vitamin A,Non-Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+54,105.8681461,170.7760937,Female,Vitamin C,Non-Vegetarian,Low,Severe,Heart Disease,Low Sodium Diet
+41,139.6002294,145.6170408,Male,Vitamin B,Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+67,56.34856236,159.6547194,Female,Vitamin A,Non-Vegetarian,Low,None,Hypertension,Low Glycemic Index Diet
+73,87.51754556,150.0482855,Female,Vitamin C,Non-Vegetarian,Low,None,None,Low Sodium Diet
+47,58.78313642,181.8677458,Female,Vitamin A,Non-Vegetarian,Moderate,None,None,Vegetarian Diet
+59,76.53287569,194.7451701,Male,Vitamin B,Vegetarian,Low,Severe,Hypertension,Heart-Healthy Diet
+21,108.8657359,180.5423233,Male,Vitamin A,Vegetarian,High,Severe,Hypertension,Low-Carb Diet
+29,109.4981579,158.0376338,Female,Vitamin A,Vegetarian,Moderate,Mild,Hypertension,Low-Carb Diet
+28,129.9275702,167.0767333,Male,Vitamin B,Non-Vegetarian,Low,Mild,None,Balanced Diet
+63,145.1744069,169.4991289,Male,Vitamin B,Non-Vegetarian,Moderate,Mild,Hypertension,Heart-Healthy Diet
+61,60.0636575,180.4270512,Male,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Low Glycemic Index Diet
+31,44.34945588,182.0003625,Male,Vitamin B,Vegetarian,Low,None,Diabetes,Vegetarian Diet
+50,63.2828953,149.0950616,Female,Vitamin C,Non-Vegetarian,High,Mild,Hypertension,Low Sodium Diet
+56,58.32328272,184.9635103,Female,Vitamin A,Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+22,48.52462495,154.0940041,Male,Vitamin A,Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+21,53.79532737,167.1762663,Female,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+71,139.0359944,185.2797863,Male,Vitamin B,Vegetarian,High,Severe,Heart Disease,Low Glycemic Index Diet
+60,82.58286966,148.199563,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,None,Low Sodium Diet
+28,130.0244115,163.4487504,Male,Vitamin A,Vegetarian,Moderate,None,Hypertension,High-Protein Diet
+58,96.24159619,144.8043892,Male,Vitamin B,Non-Vegetarian,High,Mild,Hypertension,Low Glycemic Index Diet
+47,101.6451161,193.5719204,Female,Vitamin B,Vegetarian,Moderate,None,Hypertension,Balanced Diet
+66,80.84793,179.0145487,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Hypertension,Low Sodium Diet
+50,131.0992167,149.5595757,Female,Vitamin C,Non-Vegetarian,Low,Severe,Heart Disease,Low Sodium Diet
+63,81.16745969,188.9314433,Male,Vitamin C,Vegetarian,High,Severe,Heart Disease,Heart-Healthy Diet
+68,94.28883445,164.6437347,Female,Vitamin B,Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+43,49.20863081,159.0300076,Male,Vitamin C,Non-Vegetarian,High,Severe,Diabetes,Balanced Diet
+65,120.3983453,173.3297943,Female,Vitamin A,Vegetarian,High,None,None,Low Glycemic Index Diet
+56,138.7700923,193.3634708,Female,Vitamin A,Non-Vegetarian,Low,Mild,None,Heart-Healthy Diet
+19,122.5405714,194.8105877,Male,Vitamin A,Vegetarian,Moderate,None,Hypertension,Low-Carb Diet
+59,99.54377743,199.5141392,Female,Vitamin C,Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+43,58.77119372,176.0932149,Male,Vitamin C,Vegetarian,High,None,Heart Disease,Vegetarian Diet
+55,124.8747322,140.0673988,Male,Vitamin C,Vegetarian,Low,None,Heart Disease,Low Glycemic Index Diet
+61,73.51333122,150.3501481,Female,Vitamin B,Vegetarian,Low,Severe,Hypertension,Low Glycemic Index Diet
+50,52.62439839,145.3383559,Male,Vitamin C,Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+47,97.68851537,195.6824,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+30,55.12385577,174.1476798,Male,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+22,122.0420366,164.0526797,Female,Vitamin C,Vegetarian,High,Mild,Diabetes,Balanced Diet
+68,139.4007003,166.5282418,Male,Vitamin B,Vegetarian,Moderate,Severe,Heart Disease,Low Sodium Diet
+62,60.80486712,179.812856,Male,Vitamin C,Vegetarian,Low,Severe,Diabetes,Low Sodium Diet
+69,78.1101404,144.6675725,Female,Vitamin C,Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+44,72.50844044,164.4066389,Male,Vitamin B,Vegetarian,High,Severe,Hypertension,Vegetarian Diet
+25,103.7464586,193.2826381,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+30,73.75249007,174.7292758,Female,Vitamin B,Non-Vegetarian,Low,Mild,None,Vegetarian Diet
+27,81.59847923,194.938261,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+34,43.74581085,189.2206955,Male,Vitamin B,Vegetarian,High,None,Hypertension,Vegetarian Diet
+52,94.13337811,182.7504857,Male,Vitamin A,Non-Vegetarian,Moderate,Mild,None,Low Glycemic Index Diet
+70,63.44470808,142.399,Male,Vitamin C,Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+39,92.37840219,156.2312007,Male,Vitamin C,Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+74,109.10121,165.1607027,Female,Vitamin A,Vegetarian,High,Mild,Hypertension,Low Glycemic Index Diet
+39,94.68499398,141.5658525,Female,Vitamin B,Vegetarian,High,Mild,Hypertension,Vegetarian Diet
+41,143.7682614,160.1317155,Male,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Balanced Diet
+79,129.0461579,190.9080302,Female,Vitamin A,Non-Vegetarian,Low,None,Hypertension,Low Sodium Diet
+64,63.99712231,191.3012201,Female,Vitamin B,Vegetarian,High,Mild,None,Low Sodium Diet
+65,97.22723783,185.802117,Female,Vitamin C,Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
+22,128.6787449,188.7616615,Male,Vitamin B,Non-Vegetarian,Low,Mild,None,Low-Carb Diet
+37,117.9260596,173.1999547,Female,Vitamin A,Non-Vegetarian,Moderate,None,Heart Disease,Balanced Diet
+33,134.6318924,188.4420568,Male,Vitamin B,Non-Vegetarian,Low,Mild,Diabetes,Vegetarian Diet
+59,123.3954483,146.7411556,Female,Vitamin C,Vegetarian,High,Severe,Hypertension,Heart-Healthy Diet
+75,71.0566616,145.0374853,Female,Vitamin A,Vegetarian,High,Mild,None,Low Glycemic Index Diet
+47,133.7388903,153.6568764,Male,Vitamin B,Non-Vegetarian,Low,None,None,Balanced Diet
+44,43.63971174,194.2625137,Male,Vitamin A,Non-Vegetarian,High,Mild,Diabetes,Vegetarian Diet
+29,90.45760155,161.2155187,Male,Vitamin A,Non-Vegetarian,Low,Mild,Heart Disease,High-Protein Diet
+18,51.24438688,157.2944284,Female,Vitamin A,Non-Vegetarian,Low,Severe,Hypertension,Low-Carb Diet
+26,125.8330869,150.7928782,Male,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,Low-Carb Diet
+18,134.6187795,177.6329114,Male,Vitamin A,Vegetarian,Low,Severe,Diabetes,Low-Carb Diet
+21,68.50255627,182.6340545,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,Balanced Diet
+24,108.1312669,172.1945435,Male,Vitamin C,Non-Vegetarian,High,Severe,Heart Disease,Balanced Diet
+51,57.69414383,198.7839786,Male,Vitamin C,Vegetarian,Moderate,None,Heart Disease,Low Sodium Diet
+76,94.31913682,146.609147,Female,Vitamin B,Vegetarian,High,None,None,Low Sodium Diet
+28,140.2850221,152.5299454,Male,Vitamin A,Vegetarian,Low,None,None,Low-Carb Diet
+41,61.14444177,167.4476092,Male,Vitamin A,Non-Vegetarian,High,Mild,Heart Disease,Balanced Diet
+37,52.95038983,156.3312676,Male,Vitamin A,Vegetarian,High,None,None,Balanced Diet
+79,107.6464575,199.6272307,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+50,43.56932765,150.650511,Male,Vitamin B,Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+65,149.9241196,166.3916605,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+47,85.21440723,176.8215708,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Balanced Diet
+19,129.1003027,163.561887,Male,Vitamin C,Non-Vegetarian,High,Severe,Heart Disease,High-Protein Diet
+54,132.1390773,171.6844913,Female,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Low Sodium Diet
+33,104.7769118,197.8007001,Male,Vitamin A,Vegetarian,Low,None,Heart Disease,Vegetarian Diet
+69,65.87738551,148.1130761,Male,Vitamin C,Vegetarian,Low,Severe,Hypertension,Heart-Healthy Diet
+70,90.64064215,146.7105,Female,Vitamin A,Vegetarian,High,None,None,Low Sodium Diet
+41,137.4231421,192.3212611,Female,Vitamin A,Vegetarian,High,Mild,Hypertension,Vegetarian Diet
+74,130.8911563,161.912848,Female,Vitamin A,Non-Vegetarian,High,None,None,Low Glycemic Index Diet
+28,112.5399229,171.8632137,Male,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+49,133.9231816,156.4753336,Male,Vitamin B,Non-Vegetarian,Moderate,Mild,Hypertension,Vegetarian Diet
+63,63.95051688,160.4426994,Female,Vitamin B,Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+37,75.34680511,146.3409257,Female,Vitamin B,Vegetarian,Moderate,Mild,None,Balanced Diet
+41,138.4860611,166.5436463,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+26,82.95210249,178.6507357,Male,Vitamin C,Vegetarian,Moderate,None,Diabetes,High-Protein Diet
+57,144.7221166,166.6398776,Male,Vitamin C,Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+68,107.6677903,159.5610496,Female,Vitamin B,Non-Vegetarian,High,Mild,None,Heart-Healthy Diet
+27,46.06742922,141.533176,Male,Vitamin C,Vegetarian,High,Mild,Heart Disease,Balanced Diet
+42,122.4174594,164.1087237,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+50,138.4132243,169.2150949,Female,Vitamin C,Vegetarian,High,Mild,Heart Disease,Heart-Healthy Diet
+53,147.2027353,150.6498505,Male,Vitamin B,Vegetarian,Low,Mild,None,Low Sodium Diet
+55,54.89757186,157.7574468,Male,Vitamin C,Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+43,63.95391262,198.1204582,Female,Vitamin B,Non-Vegetarian,Low,Severe,None,Vegetarian Diet
+53,61.42025995,159.4616874,Female,Vitamin C,Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+20,88.108894,179.3269596,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+56,109.5612876,181.9046417,Female,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Low Sodium Diet
+52,140.5785405,140.7474421,Male,Vitamin A,Vegetarian,Moderate,Mild,Hypertension,Low Sodium Diet
+51,140.703691,175.6618093,Male,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+72,76.49318152,153.8871345,Male,Vitamin C,Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+27,130.5747507,149.3310294,Female,Vitamin B,Non-Vegetarian,High,Mild,Heart Disease,High-Protein Diet
+57,72.02458913,147.4849889,Male,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,Low Glycemic Index Diet
+78,107.7134332,183.9564551,Male,Vitamin B,Non-Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+21,149.3060936,144.1907825,Male,Vitamin B,Non-Vegetarian,High,Severe,None,Low-Carb Diet
+34,125.6879748,168.7966563,Male,Vitamin A,Vegetarian,Low,Mild,None,Balanced Diet
+42,119.724204,184.854425,Male,Vitamin A,Non-Vegetarian,Low,Severe,Diabetes,Balanced Diet
+38,81.05286719,178.6359536,Female,Vitamin A,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+74,108.6369717,149.7013711,Female,Vitamin B,Non-Vegetarian,Low,Severe,Hypertension,Low Sodium Diet
+66,93.26409757,173.7128456,Female,Vitamin B,Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+19,53.91540241,194.5738796,Male,Vitamin C,Vegetarian,High,Mild,Hypertension,High-Protein Diet
+78,55.70915037,144.9966986,Female,Vitamin A,Vegetarian,High,None,Hypertension,Heart-Healthy Diet
+49,144.8847565,147.2916557,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Vegetarian Diet
+75,133.8633716,173.4679721,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+75,96.56438117,178.533807,Male,Vitamin A,Non-Vegetarian,Moderate,None,Diabetes,Heart-Healthy Diet
+79,124.9530312,156.8704957,Male,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,Low Sodium Diet
+34,93.53572482,184.6598203,Male,Vitamin A,Non-Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+74,81.76544652,149.8796633,Female,Vitamin B,Non-Vegetarian,Moderate,None,None,Heart-Healthy Diet
+24,86.86594368,148.9027924,Female,Vitamin A,Vegetarian,Moderate,Mild,Diabetes,High-Protein Diet
+75,55.80858058,186.8228538,Female,Vitamin B,Non-Vegetarian,Low,Mild,Heart Disease,Heart-Healthy Diet
+48,55.37274015,194.6536216,Male,Vitamin A,Non-Vegetarian,Moderate,None,Heart Disease,Balanced Diet
+25,91.7670556,194.7339413,Male,Vitamin A,Vegetarian,Moderate,None,Heart Disease,Balanced Diet
+80,140.8227929,197.9850661,Female,Vitamin A,Vegetarian,Moderate,Severe,Diabetes,Low Glycemic Index Diet
+60,105.7578623,161.7804122,Female,Vitamin B,Non-Vegetarian,High,Mild,None,Heart-Healthy Diet
+75,133.77807,169.0936093,Female,Vitamin B,Vegetarian,Low,Severe,None,Heart-Healthy Diet
+48,148.0010932,178.8056197,Female,Vitamin B,Vegetarian,High,Severe,Heart Disease,Balanced Diet
+63,145.7582335,149.8067001,Male,Vitamin A,Vegetarian,Low,None,Hypertension,Heart-Healthy Diet
+57,54.85902606,141.846647,Female,Vitamin A,Non-Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+57,92.32526281,172.3361677,Female,Vitamin C,Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+54,113.8170008,159.7880067,Female,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,Heart-Healthy Diet
+38,92.34979056,197.0989306,Male,Vitamin B,Non-Vegetarian,Low,Mild,None,Balanced Diet
+23,46.2480468,180.7296467,Female,Vitamin B,Non-Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+55,119.8040822,181.263111,Male,Vitamin A,Vegetarian,High,Mild,Hypertension,Low Sodium Diet
+62,62.18587242,173.0776788,Male,Vitamin A,Vegetarian,Low,None,None,Heart-Healthy Diet
+56,71.32373296,167.6658252,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+57,106.660616,177.4699184,Male,Vitamin B,Non-Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+77,131.7562053,144.8991793,Male,Vitamin B,Vegetarian,High,None,Diabetes,Heart-Healthy Diet
+39,139.2361463,166.8474432,Male,Vitamin A,Vegetarian,Low,None,Diabetes,Balanced Diet
+18,44.00241994,148.1563308,Male,Vitamin C,Vegetarian,Moderate,Mild,Heart Disease,Low-Carb Diet
+75,54.32069774,183.1567877,Male,Vitamin B,Non-Vegetarian,High,Mild,Heart Disease,Low Sodium Diet
+50,105.2725892,179.1504971,Male,Vitamin C,Vegetarian,Low,None,None,Low Glycemic Index Diet
+49,109.3302973,173.53056,Male,Vitamin C,Vegetarian,Low,Severe,Heart Disease,Vegetarian Diet
+44,125.9944661,168.7195117,Female,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,Balanced Diet
+19,102.4244688,195.3651066,Male,Vitamin B,Vegetarian,High,None,Heart Disease,Balanced Diet
+21,52.22470032,167.0256059,Male,Vitamin A,Non-Vegetarian,Low,Severe,Heart Disease,High-Protein Diet
+36,116.7426305,166.5847889,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+41,41.57226088,165.9530632,Female,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,Vegetarian Diet
+31,127.0343781,187.2417171,Female,Vitamin A,Vegetarian,High,None,Heart Disease,Vegetarian Diet
+44,64.94065965,146.9400443,Female,Vitamin A,Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+34,56.40780262,191.8573646,Male,Vitamin C,Non-Vegetarian,Low,Mild,Diabetes,Vegetarian Diet
+20,85.74227064,178.1040057,Male,Vitamin C,Non-Vegetarian,High,Mild,Heart Disease,Balanced Diet
+36,42.05339102,163.3081294,Male,Vitamin A,Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+38,92.89635341,176.6841649,Female,Vitamin B,Vegetarian,Moderate,None,Diabetes,Balanced Diet
+63,75.00378354,154.3991436,Male,Vitamin A,Vegetarian,Moderate,Mild,None,Low Sodium Diet
+57,95.80257096,175.2303343,Female,Vitamin A,Non-Vegetarian,Moderate,Mild,Heart Disease,Low Sodium Diet
+54,131.792794,186.5284599,Male,Vitamin B,Vegetarian,High,Severe,Heart Disease,Heart-Healthy Diet
+36,87.65741225,161.7851317,Female,Vitamin A,Non-Vegetarian,High,Mild,None,Vegetarian Diet
+48,43.35414723,162.0319154,Female,Vitamin A,Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+50,61.49154552,191.7444562,Female,Vitamin B,Non-Vegetarian,Low,Mild,None,Heart-Healthy Diet
+36,73.73329785,190.1151146,Male,Vitamin A,Non-Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+18,149.0088245,178.3223981,Male,Vitamin A,Vegetarian,Moderate,Severe,Hypertension,High-Protein Diet
+57,57.03466528,167.4307203,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Low Sodium Diet
+52,114.0580147,178.3180768,Female,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Heart-Healthy Diet
+79,139.7111458,176.3749673,Female,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Heart-Healthy Diet
+71,90.70880639,174.2501121,Male,Vitamin C,Vegetarian,Low,None,Hypertension,Heart-Healthy Diet
+23,121.5388294,172.7861104,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+30,125.080277,183.6594783,Female,Vitamin A,Vegetarian,High,None,Hypertension,Balanced Diet
+58,62.92640988,147.7735658,Male,Vitamin A,Non-Vegetarian,Low,Severe,Hypertension,Low Glycemic Index Diet
+63,50.599465,167.6163878,Male,Vitamin C,Non-Vegetarian,High,Severe,None,Heart-Healthy Diet
+58,79.69585032,169.1455796,Female,Vitamin A,Non-Vegetarian,Low,Mild,Hypertension,Low Glycemic Index Diet
+52,138.5736497,157.1908907,Female,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Heart-Healthy Diet
+59,146.6860322,171.5363302,Male,Vitamin C,Vegetarian,Low,Mild,Diabetes,Heart-Healthy Diet
+42,48.50124413,194.3325047,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Vegetarian Diet
+69,63.55574769,178.8882795,Male,Vitamin A,Non-Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+19,65.50057898,156.8550555,Male,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Balanced Diet
+68,123.6416543,147.5943751,Female,Vitamin B,Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+56,122.2252942,153.1574518,Female,Vitamin C,Non-Vegetarian,High,Mild,Heart Disease,Low Sodium Diet
+58,76.50262719,184.3739568,Male,Vitamin B,Vegetarian,Moderate,None,Hypertension,Low Sodium Diet
+18,48.03316944,187.4274657,Male,Vitamin C,Non-Vegetarian,Low,Severe,Heart Disease,Low-Carb Diet
+18,135.6024154,143.8010529,Female,Vitamin A,Non-Vegetarian,High,None,Heart Disease,Low-Carb Diet
+70,130.4668981,160.8857572,Male,Vitamin A,Vegetarian,High,None,Heart Disease,Low Sodium Diet
+18,102.1406777,141.3060325,Female,Vitamin A,Vegetarian,High,Severe,Hypertension,Low-Carb Diet
+61,46.36848528,140.9747562,Male,Vitamin C,Non-Vegetarian,Low,Severe,Heart Disease,Low Sodium Diet
+67,136.9726591,149.5968938,Male,Vitamin C,Non-Vegetarian,Low,Mild,Diabetes,Low Glycemic Index Diet
+27,120.6530574,185.7666666,Female,Vitamin A,Non-Vegetarian,Low,Severe,None,Balanced Diet
+77,96.54365023,188.3780021,Male,Vitamin B,Non-Vegetarian,Low,None,Hypertension,Low Sodium Diet
+76,43.80862873,190.3675213,Male,Vitamin A,Non-Vegetarian,Low,None,Diabetes,Low Glycemic Index Diet
+65,98.9620934,163.5402148,Male,Vitamin C,Vegetarian,Moderate,Mild,Heart Disease,Low Sodium Diet
+69,149.9416184,189.7423166,Female,Vitamin A,Vegetarian,Moderate,Severe,Heart Disease,Low Glycemic Index Diet
+60,132.530773,176.1472301,Female,Vitamin C,Vegetarian,High,Mild,Diabetes,Heart-Healthy Diet
+40,43.86814722,196.7301229,Female,Vitamin A,Non-Vegetarian,High,Severe,Hypertension,Balanced Diet
+67,129.0949457,197.2165755,Female,Vitamin B,Non-Vegetarian,Moderate,None,Heart Disease,Low Glycemic Index Diet
+34,126.6816165,159.376594,Female,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+22,50.84440036,150.2251964,Male,Vitamin C,Non-Vegetarian,High,Severe,Hypertension,Low-Carb Diet
+53,82.06447218,171.0925335,Male,Vitamin A,Vegetarian,Moderate,Mild,None,Low Sodium Diet
+22,102.8482068,190.9415941,Female,Vitamin B,Vegetarian,Moderate,None,None,High-Protein Diet
+30,43.53874576,151.9172232,Male,Vitamin C,Non-Vegetarian,Low,Severe,Heart Disease,Vegetarian Diet
+66,65.03784056,184.412254,Male,Vitamin C,Vegetarian,High,Severe,Heart Disease,Heart-Healthy Diet
+77,101.8709795,182.5718953,Male,Vitamin B,Vegetarian,High,Severe,Hypertension,Low Glycemic Index Diet
+22,83.09659558,140.4920978,Male,Vitamin B,Non-Vegetarian,High,Mild,Hypertension,High-Protein Diet
+31,77.58158295,165.889951,Male,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Vegetarian Diet
+75,107.6059345,176.9565548,Female,Vitamin B,Vegetarian,High,None,Diabetes,Heart-Healthy Diet
+21,132.6844978,152.1073356,Male,Vitamin B,Vegetarian,Moderate,None,None,Balanced Diet
+30,138.540423,163.2243417,Female,Vitamin A,Vegetarian,Low,None,Hypertension,Balanced Diet
+65,136.9746138,145.6377938,Male,Vitamin A,Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+35,41.82263473,197.4864938,Male,Vitamin C,Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+18,43.99709704,173.6450963,Female,Vitamin A,Vegetarian,Moderate,Mild,None,Balanced Diet
+35,68.12487384,190.3825643,Male,Vitamin B,Vegetarian,Low,None,Hypertension,Balanced Diet
+37,113.2359233,145.9779857,Female,Vitamin C,Vegetarian,Moderate,Severe,None,Vegetarian Diet
+31,98.70899211,185.3844648,Female,Vitamin B,Non-Vegetarian,Moderate,None,Hypertension,Balanced Diet
+31,118.3758449,144.154452,Male,Vitamin C,Non-Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+75,135.1733798,144.4918994,Female,Vitamin B,Vegetarian,Moderate,Severe,Heart Disease,Low Glycemic Index Diet
+45,44.32665524,187.0096444,Female,Vitamin C,Vegetarian,High,Severe,Heart Disease,Vegetarian Diet
+30,135.1162875,192.2160131,Female,Vitamin B,Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+19,138.637136,176.8647958,Male,Vitamin B,Vegetarian,High,Mild,None,Balanced Diet
+66,52.91430307,162.5538388,Male,Vitamin A,Vegetarian,High,Mild,None,Heart-Healthy Diet
+68,59.05667444,158.8882995,Female,Vitamin A,Vegetarian,High,None,Hypertension,Low Glycemic Index Diet
+66,99.62198511,177.9663137,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Heart Disease,Low Sodium Diet
+49,113.1609002,143.3976873,Female,Vitamin B,Vegetarian,Moderate,Severe,Hypertension,Balanced Diet
+62,48.15806374,155.2272911,Female,Vitamin C,Vegetarian,Low,None,Diabetes,Low Glycemic Index Diet
+21,106.6706344,143.9323909,Male,Vitamin C,Vegetarian,Moderate,None,Hypertension,High-Protein Diet
+18,93.3645349,175.8892044,Female,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Balanced Diet
+23,117.7301673,147.3068547,Female,Vitamin A,Non-Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+30,65.93525483,160.6206072,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,None,Balanced Diet
+74,116.1241238,188.3287848,Female,Vitamin A,Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+71,53.54989398,197.3180105,Female,Vitamin A,Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+53,91.78080929,166.163738,Female,Vitamin C,Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+29,43.57200363,147.2853063,Female,Vitamin A,Non-Vegetarian,High,Severe,None,Balanced Diet
+47,129.1836768,168.7831918,Female,Vitamin C,Vegetarian,High,Severe,Diabetes,Vegetarian Diet
+42,97.70686865,162.9118655,Male,Vitamin A,Vegetarian,Low,None,Diabetes,Balanced Diet
+59,120.6071583,155.8495601,Female,Vitamin C,Non-Vegetarian,Low,None,None,Heart-Healthy Diet
+23,85.67054106,198.8664588,Female,Vitamin A,Vegetarian,High,Mild,Heart Disease,High-Protein Diet
+27,136.1369213,166.4388256,Male,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Low-Carb Diet
+60,134.4300466,146.1336767,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,None,Low Sodium Diet
+29,85.87473341,165.4467559,Male,Vitamin A,Non-Vegetarian,Low,None,Heart Disease,Low-Carb Diet
+28,111.0017467,145.0887953,Female,Vitamin B,Vegetarian,High,None,Heart Disease,Balanced Diet
+35,44.19997253,148.598213,Female,Vitamin B,Vegetarian,Low,Mild,Diabetes,Vegetarian Diet
+37,50.28742795,169.6114968,Male,Vitamin C,Vegetarian,High,None,Hypertension,Vegetarian Diet
+22,74.96931386,147.0394462,Male,Vitamin B,Vegetarian,High,Severe,Hypertension,Low-Carb Diet
+67,40.98827063,196.7632757,Female,Vitamin C,Vegetarian,Moderate,Mild,Hypertension,Heart-Healthy Diet
+69,40.62546677,144.5064419,Male,Vitamin B,Vegetarian,Low,None,Heart Disease,Low Glycemic Index Diet
+34,123.6872785,171.1051415,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,Heart Disease,Vegetarian Diet
+22,103.4534142,172.561836,Female,Vitamin C,Vegetarian,High,Severe,Heart Disease,High-Protein Diet
+64,85.70885062,198.5262123,Male,Vitamin B,Non-Vegetarian,Low,None,None,Low Sodium Diet
+48,130.5093495,196.1231717,Female,Vitamin B,Vegetarian,High,None,None,Vegetarian Diet
+67,42.64640158,156.5749329,Female,Vitamin B,Vegetarian,Moderate,Mild,Heart Disease,Heart-Healthy Diet
+50,129.8022159,188.5029028,Female,Vitamin C,Non-Vegetarian,High,Severe,Heart Disease,Heart-Healthy Diet
+54,86.03230226,157.0538913,Male,Vitamin C,Non-Vegetarian,Low,None,None,Low Sodium Diet
+42,119.2165634,184.3940281,Male,Vitamin A,Vegetarian,High,Mild,None,Vegetarian Diet
+53,98.82296999,143.0467328,Male,Vitamin B,Non-Vegetarian,Moderate,None,Heart Disease,Heart-Healthy Diet
+27,56.74564408,163.6915265,Female,Vitamin A,Non-Vegetarian,High,Severe,Hypertension,Low-Carb Diet
+64,42.04644947,180.1865463,Female,Vitamin A,Non-Vegetarian,High,None,Heart Disease,Low Sodium Diet
+62,106.9055926,181.8727213,Female,Vitamin A,Vegetarian,Low,Mild,Hypertension,Low Sodium Diet
+61,88.29574351,149.2568901,Male,Vitamin B,Vegetarian,Low,None,Diabetes,Low Sodium Diet
+60,129.7885833,162.368129,Female,Vitamin C,Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+35,64.22209941,163.5749211,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,None,Vegetarian Diet
+69,117.3662348,185.7927923,Female,Vitamin A,Non-Vegetarian,Moderate,Mild,Hypertension,Heart-Healthy Diet
+49,119.3458389,142.9621701,Female,Vitamin A,Non-Vegetarian,Low,Mild,Hypertension,Vegetarian Diet
+34,84.82328176,182.1624935,Female,Vitamin B,Vegetarian,Low,Mild,None,Balanced Diet
+77,85.23964963,153.8531753,Male,Vitamin C,Vegetarian,Moderate,None,None,Low Glycemic Index Diet
+45,61.87686709,146.5290621,Female,Vitamin B,Vegetarian,Moderate,Mild,Heart Disease,Vegetarian Diet
+77,99.94569853,197.5525875,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+26,136.1983146,156.5244291,Female,Vitamin C,Vegetarian,Low,Severe,None,High-Protein Diet
+79,125.2344938,142.2891881,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+49,45.33194603,167.4216624,Male,Vitamin A,Vegetarian,Low,Severe,Hypertension,Balanced Diet
+37,80.69514262,142.3689744,Male,Vitamin A,Vegetarian,Low,None,None,Balanced Diet
+68,99.817276,198.108162,Male,Vitamin B,Non-Vegetarian,Low,None,None,Low Glycemic Index Diet
+77,41.16352029,189.0781211,Female,Vitamin C,Non-Vegetarian,High,None,None,Low Sodium Diet
+36,103.7323039,167.9321415,Female,Vitamin C,Non-Vegetarian,High,Mild,None,Balanced Diet
+47,43.7277153,163.1981844,Male,Vitamin C,Non-Vegetarian,Low,Severe,Hypertension,Balanced Diet
+48,124.9647013,167.7473776,Female,Vitamin C,Non-Vegetarian,High,Mild,None,Vegetarian Diet
+38,105.922191,145.2855194,Male,Vitamin A,Non-Vegetarian,High,None,Hypertension,Balanced Diet
+36,133.0742272,142.102625,Male,Vitamin B,Vegetarian,High,Severe,Hypertension,Vegetarian Diet
+36,54.65664238,165.8742635,Male,Vitamin A,Non-Vegetarian,High,None,Heart Disease,Balanced Diet
+50,96.61349275,194.1182108,Female,Vitamin A,Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+59,93.95764174,168.8732499,Male,Vitamin C,Vegetarian,High,None,Diabetes,Low Sodium Diet
+74,54.56717696,150.2785535,Female,Vitamin C,Vegetarian,Low,Severe,None,Heart-Healthy Diet
+59,103.1813877,199.7308946,Female,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+35,139.3889157,169.8200589,Male,Vitamin B,Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+20,131.8655647,166.6095412,Male,Vitamin B,Non-Vegetarian,Low,Mild,Diabetes,High-Protein Diet
+45,122.4997171,179.7610987,Female,Vitamin C,Vegetarian,Low,None,None,Balanced Diet
+49,107.9518037,161.1961605,Male,Vitamin C,Non-Vegetarian,Low,Mild,None,Vegetarian Diet
+48,111.8365048,151.4145851,Male,Vitamin B,Vegetarian,Moderate,None,None,Balanced Diet
+31,79.03930148,196.3822153,Male,Vitamin A,Non-Vegetarian,High,Severe,Hypertension,Balanced Diet
+42,106.9048963,186.5400854,Female,Vitamin B,Non-Vegetarian,Low,Mild,Diabetes,Balanced Diet
+31,110.7903629,168.0938504,Male,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+66,40.13009205,180.523586,Female,Vitamin B,Vegetarian,High,None,Heart Disease,Low Sodium Diet
+51,101.8565251,182.2932109,Male,Vitamin B,Vegetarian,High,Severe,Diabetes,Low Glycemic Index Diet
+35,52.35172977,157.6783446,Male,Vitamin B,Non-Vegetarian,High,None,Hypertension,Vegetarian Diet
+67,138.8425155,172.8699749,Female,Vitamin C,Non-Vegetarian,High,Severe,Heart Disease,Low Sodium Diet
+66,57.46732722,151.6372731,Female,Vitamin C,Non-Vegetarian,High,Mild,Hypertension,Low Glycemic Index Diet
+78,129.6152799,198.5704156,Male,Vitamin B,Vegetarian,High,Mild,Heart Disease,Low Sodium Diet
+34,87.59897205,150.2279437,Male,Vitamin A,Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+49,58.41413285,145.6664828,Female,Vitamin B,Non-Vegetarian,High,Severe,None,Balanced Diet
+61,102.2861158,141.0897504,Male,Vitamin A,Vegetarian,Moderate,Severe,Heart Disease,Heart-Healthy Diet
+21,142.5737026,158.7724525,Female,Vitamin A,Vegetarian,High,Severe,Diabetes,Balanced Diet
+55,104.5654371,198.8260708,Male,Vitamin A,Vegetarian,Low,Mild,Hypertension,Low Glycemic Index Diet
+48,73.51441426,199.2131536,Female,Vitamin B,Non-Vegetarian,Moderate,None,Hypertension,Vegetarian Diet
+49,126.3255345,189.7572482,Male,Vitamin C,Non-Vegetarian,Low,Severe,Hypertension,Balanced Diet
+32,50.28779159,179.0854258,Female,Vitamin A,Vegetarian,Low,None,Heart Disease,Balanced Diet
+39,80.6571831,166.9602019,Male,Vitamin C,Non-Vegetarian,Low,None,Diabetes,Balanced Diet
+41,149.5411933,169.5112409,Male,Vitamin B,Vegetarian,High,Severe,Heart Disease,Vegetarian Diet
+63,134.3296274,159.1412438,Female,Vitamin C,Non-Vegetarian,Low,Mild,Hypertension,Heart-Healthy Diet
+55,59.5430792,198.2431615,Female,Vitamin A,Vegetarian,Low,None,None,Low Sodium Diet
+20,140.2410987,144.5126178,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+31,66.89010364,167.3335611,Male,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+21,116.2000039,179.224556,Female,Vitamin C,Non-Vegetarian,High,Severe,Diabetes,High-Protein Diet
+45,117.4625651,164.5396207,Male,Vitamin A,Non-Vegetarian,High,Severe,Hypertension,Balanced Diet
+50,115.9649685,161.2811598,Male,Vitamin B,Vegetarian,High,Mild,Heart Disease,Heart-Healthy Diet
+70,45.87715679,177.260927,Female,Vitamin C,Vegetarian,Moderate,Severe,None,Low Sodium Diet
+37,115.7228261,174.0379835,Female,Vitamin B,Vegetarian,Low,None,Hypertension,Balanced Diet
+76,104.0235055,143.7252723,Female,Vitamin A,Non-Vegetarian,High,Severe,Heart Disease,Low Sodium Diet
+74,109.6465431,178.1204221,Female,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+74,58.73055942,143.2012523,Male,Vitamin B,Non-Vegetarian,Low,None,Heart Disease,Heart-Healthy Diet
+72,116.2428937,197.7293551,Male,Vitamin B,Vegetarian,Low,Severe,Diabetes,Low Sodium Diet
+19,143.2326569,140.8642949,Male,Vitamin C,Vegetarian,Moderate,Severe,None,High-Protein Diet
+44,106.0581882,175.056897,Male,Vitamin A,Vegetarian,Moderate,Mild,None,Balanced Diet
+73,53.30195526,180.5468981,Male,Vitamin C,Non-Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+59,89.25889382,176.8633833,Male,Vitamin A,Vegetarian,High,None,Diabetes,Heart-Healthy Diet
+21,78.53361348,156.0196909,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Low-Carb Diet
+37,130.8289983,142.3567425,Female,Vitamin C,Vegetarian,Moderate,Severe,Diabetes,Vegetarian Diet
+63,95.89500149,159.3881198,Male,Vitamin B,Non-Vegetarian,High,Severe,None,Low Glycemic Index Diet
+18,124.348569,194.740627,Male,Vitamin A,Non-Vegetarian,High,Severe,Heart Disease,Low-Carb Diet
+20,129.4409254,196.8387531,Female,Vitamin A,Non-Vegetarian,Low,None,None,High-Protein Diet
+56,145.9967182,187.7999851,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
+63,115.3678886,171.7764458,Male,Vitamin C,Vegetarian,High,None,Diabetes,Low Glycemic Index Diet
+72,69.29626442,147.6086766,Female,Vitamin C,Vegetarian,High,None,Hypertension,Heart-Healthy Diet
+79,144.088872,197.6748058,Female,Vitamin B,Vegetarian,High,Mild,Heart Disease,Heart-Healthy Diet
+63,147.5092238,172.2951886,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+62,122.7310086,182.7980489,Male,Vitamin C,Non-Vegetarian,Low,Mild,Diabetes,Heart-Healthy Diet
+47,63.62028956,168.1748881,Female,Vitamin A,Vegetarian,High,Severe,Diabetes,Balanced Diet
+43,47.34815357,148.3274451,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,None,Vegetarian Diet
+23,112.1228928,185.7021556,Male,Vitamin A,Vegetarian,Low,Mild,Diabetes,High-Protein Diet
+35,120.4090665,169.5528119,Female,Vitamin B,Non-Vegetarian,Low,None,Hypertension,Vegetarian Diet
+76,143.6910849,177.1887369,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+79,130.9282585,189.250646,Female,Vitamin C,Vegetarian,Low,None,None,Low Glycemic Index Diet
+34,110.8615653,174.4966242,Female,Vitamin A,Non-Vegetarian,High,Severe,Diabetes,Vegetarian Diet
+18,105.5911287,194.5488378,Male,Vitamin B,Vegetarian,High,None,Diabetes,Balanced Diet
+59,82.51360751,196.8456322,Male,Vitamin A,Vegetarian,High,Mild,Diabetes,Heart-Healthy Diet
+37,142.641031,179.4350092,Male,Vitamin A,Non-Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+46,147.1080892,158.0424147,Female,Vitamin B,Vegetarian,Low,Severe,None,Vegetarian Diet
+25,117.614687,163.8833488,Male,Vitamin B,Non-Vegetarian,High,Mild,Hypertension,High-Protein Diet
+35,93.77730761,161.8242057,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+56,127.354788,174.4004879,Female,Vitamin B,Vegetarian,Moderate,Mild,None,Low Sodium Diet
+48,136.4143284,154.3872285,Male,Vitamin B,Vegetarian,High,Severe,Heart Disease,Balanced Diet
+61,140.618291,165.524306,Female,Vitamin A,Vegetarian,High,None,Hypertension,Low Glycemic Index Diet
+42,76.90337031,150.1516181,Male,Vitamin C,Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+40,119.58093,185.3871304,Female,Vitamin C,Non-Vegetarian,High,Mild,Hypertension,Vegetarian Diet
+79,60.68863695,171.5204769,Female,Vitamin B,Vegetarian,Low,Mild,Heart Disease,Heart-Healthy Diet
+18,139.0040949,195.7332313,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,Low-Carb Diet
+52,116.5211344,193.290435,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,Hypertension,Low Sodium Diet
+38,48.39074737,151.9202545,Male,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,Vegetarian Diet
+41,143.3980166,185.4016104,Male,Vitamin A,Vegetarian,High,None,Hypertension,Balanced Diet
+20,58.90846109,149.5298004,Male,Vitamin C,Vegetarian,Moderate,Mild,None,Low-Carb Diet
+21,136.4878288,165.6051953,Male,Vitamin A,Vegetarian,High,Severe,Hypertension,Balanced Diet
+30,139.6953626,188.6992021,Male,Vitamin C,Non-Vegetarian,Moderate,None,Diabetes,Balanced Diet
+33,71.78136033,190.0091105,Male,Vitamin A,Vegetarian,Low,None,None,Vegetarian Diet
+34,75.77875692,173.4896061,Male,Vitamin A,Non-Vegetarian,High,Mild,Diabetes,Balanced Diet
+75,92.78692287,150.9481185,Female,Vitamin B,Non-Vegetarian,Low,Mild,Hypertension,Heart-Healthy Diet
+61,94.00128428,143.8649453,Female,Vitamin B,Non-Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+25,105.8976424,144.6070319,Male,Vitamin B,Vegetarian,Low,None,Diabetes,Balanced Diet
+39,145.3413622,178.994022,Male,Vitamin B,Vegetarian,Moderate,Mild,None,Vegetarian Diet
+65,49.32786968,169.7911384,Female,Vitamin A,Non-Vegetarian,Low,None,Diabetes,Low Glycemic Index Diet
+71,128.9174522,175.9995131,Female,Vitamin A,Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+31,59.79144946,176.1173164,Male,Vitamin C,Non-Vegetarian,High,Severe,None,Vegetarian Diet
+19,138.598606,165.6476031,Male,Vitamin A,Vegetarian,Low,Severe,Hypertension,High-Protein Diet
+69,91.34834186,195.6260094,Male,Vitamin A,Non-Vegetarian,High,None,None,Low Glycemic Index Diet
+51,71.3952647,194.186835,Female,Vitamin A,Non-Vegetarian,Moderate,Mild,Diabetes,Low Sodium Diet
+77,121.5839685,159.0914088,Male,Vitamin C,Vegetarian,High,None,Hypertension,Heart-Healthy Diet
+62,70.10782683,141.2789507,Female,Vitamin A,Vegetarian,Low,Severe,Hypertension,Low Glycemic Index Diet
+28,74.7472821,178.4458211,Female,Vitamin C,Vegetarian,High,Mild,None,Balanced Diet
+19,122.937522,165.4726899,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,High-Protein Diet
+27,74.14367991,198.9234937,Male,Vitamin A,Vegetarian,High,Mild,Hypertension,High-Protein Diet
+26,62.69044696,192.7377263,Male,Vitamin A,Vegetarian,High,None,Diabetes,Balanced Diet
+74,66.39341596,187.0247738,Male,Vitamin C,Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+28,88.0435415,149.8618326,Female,Vitamin B,Vegetarian,High,Mild,None,High-Protein Diet
+71,70.95150762,140.8494153,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Low Glycemic Index Diet
+40,76.18013909,183.2409978,Male,Vitamin B,Vegetarian,High,Severe,Heart Disease,Vegetarian Diet
+72,132.3177665,166.5995327,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Heart Disease,Heart-Healthy Diet
+67,129.5754584,199.3693091,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Heart-Healthy Diet
+38,135.6756719,191.8870204,Female,Vitamin C,Vegetarian,High,Mild,Hypertension,Balanced Diet
+37,100.7482655,142.9608392,Male,Vitamin B,Vegetarian,High,Severe,None,Balanced Diet
+42,81.63508345,166.1731509,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,None,Balanced Diet
+63,90.47984881,171.1751185,Male,Vitamin C,Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+34,57.3549158,143.9943885,Female,Vitamin B,Vegetarian,Moderate,None,Hypertension,Balanced Diet
+33,58.89955417,177.5088668,Female,Vitamin C,Vegetarian,High,Mild,Diabetes,Vegetarian Diet
+49,126.0338696,152.6459373,Female,Vitamin A,Vegetarian,High,Severe,None,Balanced Diet
+64,75.31756522,151.0468064,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Low Sodium Diet
+72,127.9352061,166.8415211,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+49,62.91046153,157.041736,Female,Vitamin B,Non-Vegetarian,Low,None,Heart Disease,Balanced Diet
+56,68.07116932,153.4265935,Female,Vitamin C,Non-Vegetarian,Low,None,Hypertension,Low Glycemic Index Diet
+21,79.65111916,150.9085192,Male,Vitamin B,Vegetarian,Moderate,None,Hypertension,Low-Carb Diet
+56,127.5007184,161.2726489,Female,Vitamin A,Non-Vegetarian,Low,Severe,Heart Disease,Heart-Healthy Diet
+43,83.25630894,189.0564812,Male,Vitamin C,Vegetarian,Moderate,Severe,None,Vegetarian Diet
+40,132.1538551,165.775222,Female,Vitamin B,Non-Vegetarian,High,Severe,Hypertension,Vegetarian Diet
+80,136.2723125,196.7101475,Male,Vitamin B,Vegetarian,High,Severe,Hypertension,Heart-Healthy Diet
+76,59.4818894,184.5898658,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+36,71.81705044,163.8717858,Female,Vitamin C,Vegetarian,High,Severe,None,Vegetarian Diet
+50,64.42060555,198.3281501,Female,Vitamin B,Vegetarian,High,Mild,Diabetes,Low Glycemic Index Diet
+69,53.03155546,199.9940976,Male,Vitamin C,Vegetarian,Moderate,None,None,Low Sodium Diet
+46,117.1829629,185.3355761,Male,Vitamin B,Vegetarian,Low,None,Hypertension,Balanced Diet
+33,90.21468968,147.5676453,Female,Vitamin C,Vegetarian,Low,Severe,None,Balanced Diet
+40,72.93937937,170.9020015,Male,Vitamin B,Non-Vegetarian,Low,Mild,None,Balanced Diet
+47,84.98287338,198.2398632,Male,Vitamin B,Vegetarian,Low,Mild,Hypertension,Balanced Diet
+58,56.64471914,153.3989415,Male,Vitamin B,Vegetarian,Moderate,Severe,Heart Disease,Heart-Healthy Diet
+56,105.8014642,162.1381584,Male,Vitamin A,Vegetarian,High,None,None,Low Sodium Diet
+33,81.71315119,141.4378059,Female,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Vegetarian Diet
+22,48.91545778,173.691698,Female,Vitamin C,Non-Vegetarian,High,Severe,None,High-Protein Diet
+71,70.26785462,147.8638399,Male,Vitamin C,Non-Vegetarian,High,Mild,None,Low Glycemic Index Diet
+72,129.9021933,172.7345208,Male,Vitamin B,Vegetarian,Moderate,Mild,Hypertension,Low Glycemic Index Diet
+62,149.3889323,175.5805553,Female,Vitamin C,Non-Vegetarian,High,Mild,None,Low Glycemic Index Diet
+68,58.40349529,198.3732522,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+18,40.80607401,180.0302506,Female,Vitamin B,Vegetarian,Moderate,Mild,Diabetes,Low-Carb Diet
+77,62.2298605,143.8966482,Female,Vitamin C,Vegetarian,High,Severe,Heart Disease,Low Glycemic Index Diet
+57,124.2156703,188.5678825,Male,Vitamin A,Vegetarian,High,Severe,None,Heart-Healthy Diet
+40,95.91983232,146.3330316,Male,Vitamin C,Vegetarian,High,Severe,Heart Disease,Vegetarian Diet
+41,109.818452,154.1232374,Male,Vitamin C,Vegetarian,High,Mild,Heart Disease,Vegetarian Diet
+57,68.72243109,165.6049229,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,Heart-Healthy Diet
+75,92.04513008,157.3331178,Female,Vitamin B,Vegetarian,High,Severe,Heart Disease,Low Sodium Diet
+20,87.20004529,182.3014616,Female,Vitamin C,Non-Vegetarian,Low,None,None,Low-Carb Diet
+75,125.4739545,155.4864983,Female,Vitamin C,Vegetarian,High,Severe,Hypertension,Low Glycemic Index Diet
+51,49.57923877,175.4326359,Female,Vitamin A,Non-Vegetarian,High,Severe,Hypertension,Heart-Healthy Diet
+22,70.36038626,154.0078972,Female,Vitamin B,Vegetarian,Moderate,None,Heart Disease,Low-Carb Diet
+73,67.40909702,193.3988487,Male,Vitamin A,Vegetarian,Low,Mild,None,Low Sodium Diet
+26,71.00088329,178.183981,Male,Vitamin C,Vegetarian,Moderate,Mild,None,Low-Carb Diet
+72,130.9935319,154.986097,Male,Vitamin B,Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+25,140.8277483,195.7042088,Female,Vitamin B,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+80,99.27558316,157.2142342,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,None,Low Sodium Diet
+61,49.6377678,185.4829195,Male,Vitamin C,Vegetarian,High,Mild,Hypertension,Heart-Healthy Diet
+36,133.5770114,191.0271099,Female,Vitamin B,Vegetarian,Moderate,None,Hypertension,Vegetarian Diet
+69,108.1097865,168.7045336,Female,Vitamin C,Non-Vegetarian,Low,None,Hypertension,Heart-Healthy Diet
+25,112.1402873,175.5902347,Female,Vitamin C,Non-Vegetarian,High,Mild,None,Balanced Diet
+56,95.85595473,173.9642551,Female,Vitamin C,Vegetarian,Moderate,Mild,Hypertension,Heart-Healthy Diet
+42,92.8014329,180.3336106,Male,Vitamin B,Vegetarian,Moderate,Mild,Hypertension,Balanced Diet
+45,84.6194752,151.6883581,Male,Vitamin A,Vegetarian,Low,Mild,None,Vegetarian Diet
+76,83.63146441,155.6387776,Female,Vitamin C,Non-Vegetarian,High,None,Hypertension,Low Sodium Diet
+35,72.0599969,197.9967702,Female,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+18,144.0934899,172.8181896,Male,Vitamin A,Vegetarian,Moderate,Severe,Hypertension,Low-Carb Diet
+29,148.117979,160.9302829,Female,Vitamin A,Non-Vegetarian,Low,None,None,Low-Carb Diet
+37,58.15871474,184.9203534,Male,Vitamin B,Vegetarian,High,None,Diabetes,Balanced Diet
+69,64.00812908,155.3782044,Male,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Low Glycemic Index Diet
+31,88.87659655,162.4817355,Female,Vitamin C,Non-Vegetarian,Low,Mild,Hypertension,Balanced Diet
+27,97.51585137,181.6490235,Male,Vitamin C,Non-Vegetarian,High,None,None,Low-Carb Diet
+36,104.6492377,187.9146279,Male,Vitamin B,Vegetarian,High,Mild,None,Balanced Diet
+62,55.46119767,153.0877885,Male,Vitamin A,Vegetarian,High,Severe,None,Low Sodium Diet
+43,64.29262704,144.133962,Male,Vitamin B,Non-Vegetarian,Low,None,Hypertension,Balanced Diet
+64,117.7604078,192.2402045,Male,Vitamin A,Non-Vegetarian,Moderate,None,Diabetes,Low Glycemic Index Diet
+50,57.10601641,158.1974932,Female,Vitamin C,Non-Vegetarian,High,Mild,None,Low Glycemic Index Diet
+25,66.59225718,162.8085967,Male,Vitamin B,Vegetarian,High,Mild,None,Low-Carb Diet
+54,88.96999176,176.5783473,Male,Vitamin A,Non-Vegetarian,High,Mild,Diabetes,Low Glycemic Index Diet
+50,75.52344576,142.2282669,Male,Vitamin B,Non-Vegetarian,High,None,Diabetes,Low Glycemic Index Diet
+65,91.39344184,166.4456648,Male,Vitamin A,Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+36,70.08958622,145.2394844,Female,Vitamin C,Non-Vegetarian,Low,Severe,Hypertension,Balanced Diet
+61,132.2270279,140.3396867,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+18,58.30017708,172.4382379,Male,Vitamin B,Non-Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+69,97.08845692,194.5734302,Female,Vitamin B,Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+54,92.0931889,193.4599586,Male,Vitamin C,Non-Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+31,103.2088477,172.3728023,Male,Vitamin C,Vegetarian,Moderate,Mild,Diabetes,Balanced Diet
+31,57.75100262,163.3676916,Female,Vitamin A,Vegetarian,High,Severe,None,Vegetarian Diet
+45,54.58456566,195.9220208,Female,Vitamin B,Vegetarian,Low,Severe,None,Vegetarian Diet
+66,46.26961465,194.7316515,Male,Vitamin A,Vegetarian,Moderate,Mild,Heart Disease,Low Glycemic Index Diet
+24,63.13836787,178.1628335,Female,Vitamin A,Vegetarian,Moderate,None,Diabetes,Low-Carb Diet
+23,145.5509859,144.1245307,Male,Vitamin A,Vegetarian,Low,Severe,None,High-Protein Diet
+58,103.7481726,190.2683872,Female,Vitamin A,Vegetarian,Low,Severe,Hypertension,Low Glycemic Index Diet
+20,140.6787167,199.4135165,Male,Vitamin C,Non-Vegetarian,Low,Severe,Hypertension,Balanced Diet
+23,103.6504154,168.6015342,Male,Vitamin B,Non-Vegetarian,Low,Mild,Hypertension,Low-Carb Diet
+57,116.228691,165.6361657,Male,Vitamin A,Non-Vegetarian,Low,Severe,Hypertension,Heart-Healthy Diet
+79,80.8656672,180.100644,Female,Vitamin B,Non-Vegetarian,High,Mild,Hypertension,Low Glycemic Index Diet
+44,89.99087432,149.2030467,Male,Vitamin C,Vegetarian,Low,Severe,Hypertension,Vegetarian Diet
+21,110.7286091,153.810533,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+49,113.8672475,180.1480675,Male,Vitamin A,Non-Vegetarian,Low,Severe,Hypertension,Balanced Diet
+45,133.7943088,185.0537279,Male,Vitamin B,Non-Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+49,135.3471377,156.858585,Male,Vitamin C,Non-Vegetarian,Low,Mild,Hypertension,Balanced Diet
+62,128.6957658,163.4128407,Male,Vitamin C,Vegetarian,Low,Mild,None,Heart-Healthy Diet
+76,74.06587213,140.7731781,Male,Vitamin C,Vegetarian,Low,Severe,None,Heart-Healthy Diet
+21,109.8231097,167.9906624,Female,Vitamin C,Non-Vegetarian,Moderate,None,Diabetes,High-Protein Diet
+18,90.56707917,164.7431051,Male,Vitamin A,Vegetarian,High,None,Heart Disease,High-Protein Diet
+38,114.6108554,180.7135679,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+19,138.1009446,170.3346019,Female,Vitamin C,Vegetarian,Low,Mild,Hypertension,High-Protein Diet
+80,114.9333955,150.3204065,Female,Vitamin A,Vegetarian,High,Severe,Hypertension,Low Glycemic Index Diet
+23,92.38471323,160.8197623,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,Diabetes,High-Protein Diet
+46,126.726314,182.8774039,Male,Vitamin C,Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+40,145.7050914,191.8819632,Female,Vitamin C,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+69,72.49477947,147.4201139,Male,Vitamin B,Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+46,122.0192872,154.1347126,Female,Vitamin A,Non-Vegetarian,Low,Mild,Diabetes,Balanced Diet
+48,67.32193954,187.4885529,Male,Vitamin B,Vegetarian,Low,None,Hypertension,Balanced Diet
+41,146.8572432,141.4866663,Female,Vitamin B,Vegetarian,High,None,Heart Disease,Vegetarian Diet
+51,61.08973649,150.0147375,Male,Vitamin B,Vegetarian,High,None,None,Heart-Healthy Diet
+55,148.9120122,140.9935618,Female,Vitamin A,Non-Vegetarian,Moderate,None,None,Low Glycemic Index Diet
+20,109.7723444,186.5074719,Female,Vitamin A,Non-Vegetarian,High,Mild,Hypertension,Balanced Diet
+49,122.1355434,193.4302795,Male,Vitamin B,Non-Vegetarian,Moderate,Mild,Diabetes,Balanced Diet
+36,105.8716207,158.076197,Male,Vitamin A,Non-Vegetarian,High,None,None,Vegetarian Diet
+21,101.4480537,168.758283,Male,Vitamin B,Vegetarian,Low,Severe,Heart Disease,High-Protein Diet
+70,128.337566,196.4741214,Female,Vitamin B,Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+28,104.3652397,165.1921111,Male,Vitamin B,Vegetarian,Low,None,Hypertension,Balanced Diet
+79,114.9477865,145.5605135,Male,Vitamin C,Non-Vegetarian,Low,Mild,Diabetes,Low Glycemic Index Diet
+61,41.05694304,152.7125659,Female,Vitamin C,Non-Vegetarian,High,None,Diabetes,Low Sodium Diet
+58,130.5981692,196.4272392,Female,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Low Sodium Diet
+20,130.3403775,144.5023723,Female,Vitamin A,Vegetarian,Moderate,Mild,Hypertension,Low-Carb Diet
+68,132.7951031,157.002302,Male,Vitamin B,Non-Vegetarian,Low,Severe,Heart Disease,Heart-Healthy Diet
+47,143.4215738,146.2003347,Female,Vitamin C,Vegetarian,Low,None,Diabetes,Balanced Diet
+28,67.49434004,190.2529146,Male,Vitamin C,Vegetarian,Low,Severe,None,Low-Carb Diet
+78,126.9553484,179.647882,Female,Vitamin A,Non-Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+47,79.71787202,158.1480801,Male,Vitamin C,Non-Vegetarian,Low,None,Diabetes,Vegetarian Diet
+34,40.06162437,162.6657917,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,Balanced Diet
+18,116.0129686,145.1374695,Male,Vitamin B,Non-Vegetarian,Low,None,Heart Disease,Low-Carb Diet
+45,55.13248704,178.407881,Male,Vitamin B,Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+71,41.74304493,141.27583,Female,Vitamin C,Non-Vegetarian,High,Mild,Heart Disease,Heart-Healthy Diet
+35,112.8222846,186.3642006,Male,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Vegetarian Diet
+18,67.38749564,178.1359845,Female,Vitamin B,Non-Vegetarian,Low,None,Diabetes,High-Protein Diet
+77,57.57577324,154.701706,Male,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Low Sodium Diet
+65,46.43129499,191.3077205,Female,Vitamin C,Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+18,86.17189244,176.9170137,Male,Vitamin B,Vegetarian,Moderate,Mild,None,Balanced Diet
+46,100.6127011,164.319301,Female,Vitamin A,Vegetarian,Moderate,Mild,Hypertension,Balanced Diet
+32,149.0126608,190.2986167,Female,Vitamin C,Vegetarian,Low,None,Heart Disease,Vegetarian Diet
+49,48.86981532,170.7282901,Male,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+53,93.156818,159.3963529,Male,Vitamin A,Non-Vegetarian,High,None,Diabetes,Low Sodium Diet
+50,71.79220088,150.1577157,Male,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Heart-Healthy Diet
+55,98.60699799,156.9118962,Male,Vitamin A,Non-Vegetarian,High,Severe,None,Low Glycemic Index Diet
+70,80.87588932,198.2988343,Male,Vitamin A,Vegetarian,Moderate,None,None,Low Glycemic Index Diet
+63,60.86203204,181.5479613,Male,Vitamin C,Vegetarian,Moderate,Mild,Hypertension,Heart-Healthy Diet
+50,122.017303,195.1756988,Male,Vitamin C,Non-Vegetarian,Moderate,Mild,Hypertension,Heart-Healthy Diet
+21,61.92570762,153.5789126,Female,Vitamin B,Non-Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+67,40.86711608,140.9245962,Female,Vitamin C,Non-Vegetarian,Low,Mild,None,Heart-Healthy Diet
+34,49.17310982,141.9270904,Male,Vitamin C,Non-Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+42,44.38882871,150.6726951,Male,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Vegetarian Diet
+40,48.14512651,190.6657027,Male,Vitamin C,Vegetarian,High,None,Heart Disease,Balanced Diet
+34,106.0377829,193.2725556,Male,Vitamin C,Vegetarian,Low,Severe,Hypertension,Balanced Diet
+74,66.88952451,177.7292417,Female,Vitamin A,Vegetarian,Moderate,Severe,None,Low Sodium Diet
+49,79.04364782,187.1180256,Male,Vitamin C,Vegetarian,High,Mild,Heart Disease,Vegetarian Diet
+38,45.2406877,156.6083302,Male,Vitamin A,Vegetarian,High,Mild,None,Balanced Diet
+42,92.9928082,177.8480717,Female,Vitamin A,Non-Vegetarian,Low,None,Heart Disease,Vegetarian Diet
+75,86.1888271,142.6546892,Female,Vitamin C,Non-Vegetarian,Low,Mild,Diabetes,Heart-Healthy Diet
+48,67.60387007,145.6346126,Male,Vitamin A,Non-Vegetarian,Low,None,Hypertension,Vegetarian Diet
+33,55.35136631,166.0110988,Female,Vitamin C,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+41,146.2040598,189.8140283,Male,Vitamin C,Vegetarian,Low,None,Heart Disease,Balanced Diet
+57,92.04763358,143.0245218,Male,Vitamin C,Vegetarian,Low,None,Heart Disease,Low Glycemic Index Diet
+62,71.94056151,146.4701569,Male,Vitamin C,Non-Vegetarian,Moderate,Mild,Heart Disease,Low Sodium Diet
+63,94.2885717,147.3058056,Male,Vitamin A,Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+40,88.59811965,192.0125187,Female,Vitamin B,Vegetarian,Moderate,Mild,None,Balanced Diet
+52,120.34585,180.8567879,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+19,93.39625715,195.5981937,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Hypertension,Low-Carb Diet
+42,42.99724032,190.816799,Male,Vitamin C,Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+71,55.31073933,158.6032782,Male,Vitamin C,Vegetarian,Low,Mild,None,Low Sodium Diet
+44,88.01247446,177.2903713,Female,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+34,81.38327424,173.6760186,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,None,Vegetarian Diet
+29,77.53915077,149.6992995,Male,Vitamin A,Non-Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+78,108.9036438,179.0428706,Female,Vitamin A,Non-Vegetarian,High,None,Hypertension,Heart-Healthy Diet
+72,40.42451383,184.0894597,Male,Vitamin B,Non-Vegetarian,Moderate,None,Hypertension,Low Sodium Diet
+65,47.76426629,191.8718908,Male,Vitamin A,Vegetarian,Moderate,None,None,Heart-Healthy Diet
+45,77.30927351,170.3605306,Male,Vitamin A,Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+49,77.50594793,155.3057491,Male,Vitamin B,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+35,61.19129432,173.2874732,Male,Vitamin C,Vegetarian,Low,None,Heart Disease,Balanced Diet
+24,146.4224732,176.9908969,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,High-Protein Diet
+67,66.9652578,174.9489386,Female,Vitamin B,Vegetarian,Low,Mild,None,Low Sodium Diet
+19,88.7815032,186.7092757,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Balanced Diet
+29,46.62820215,145.4932626,Female,Vitamin A,Non-Vegetarian,Low,None,Hypertension,High-Protein Diet
+47,108.0704986,193.8389649,Male,Vitamin C,Non-Vegetarian,Low,Mild,Hypertension,Vegetarian Diet
+32,89.93885218,142.6380578,Female,Vitamin A,Non-Vegetarian,Moderate,None,None,Balanced Diet
+54,78.99459568,176.805819,Female,Vitamin B,Non-Vegetarian,Low,Severe,Hypertension,Low Sodium Diet
+54,79.71472379,144.2605111,Female,Vitamin B,Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+35,147.0502834,185.4255432,Male,Vitamin C,Vegetarian,High,Mild,Hypertension,Balanced Diet
+37,54.4566139,149.4867007,Male,Vitamin C,Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+65,42.79455079,177.9358099,Male,Vitamin C,Non-Vegetarian,High,Mild,Hypertension,Low Glycemic Index Diet
+26,89.37165923,149.5504069,Male,Vitamin B,Vegetarian,Low,Severe,Hypertension,Balanced Diet
+44,128.7203916,171.0699666,Female,Vitamin A,Vegetarian,Low,Mild,Hypertension,Balanced Diet
+35,114.7559148,188.1908772,Female,Vitamin A,Vegetarian,Low,None,Heart Disease,Balanced Diet
+21,47.67395098,175.3234759,Male,Vitamin B,Vegetarian,Low,Mild,Diabetes,Low-Carb Diet
+54,76.72933496,176.9178341,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+36,110.9325398,151.4626735,Male,Vitamin A,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+70,134.4751526,173.9489155,Female,Vitamin C,Vegetarian,High,Severe,Diabetes,Low Sodium Diet
+78,104.2571214,143.7286908,Male,Vitamin A,Vegetarian,High,None,None,Low Glycemic Index Diet
+50,41.85779745,171.2768184,Female,Vitamin B,Vegetarian,High,None,Hypertension,Heart-Healthy Diet
+68,49.43323709,175.6272044,Female,Vitamin B,Vegetarian,Low,Severe,Diabetes,Heart-Healthy Diet
+62,114.4779123,165.0214131,Female,Vitamin C,Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+63,74.76355564,162.7312109,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
+24,138.5840396,166.7541843,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,High-Protein Diet
+47,85.99409178,160.1060293,Male,Vitamin B,Vegetarian,Moderate,Severe,Heart Disease,Vegetarian Diet
+47,114.8519621,155.8556404,Female,Vitamin A,Vegetarian,Low,Severe,Hypertension,Balanced Diet
+29,127.437122,175.7397161,Female,Vitamin A,Non-Vegetarian,Moderate,None,None,Balanced Diet
+34,121.3451031,177.6895249,Male,Vitamin B,Non-Vegetarian,High,Severe,Heart Disease,Vegetarian Diet
+42,55.36134898,178.7844512,Male,Vitamin B,Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+25,94.94521227,152.2174857,Female,Vitamin A,Non-Vegetarian,Low,Mild,Diabetes,Balanced Diet
+66,101.4593286,180.0903212,Male,Vitamin B,Vegetarian,Low,Severe,Diabetes,Low Sodium Diet
+47,82.74790946,159.7273756,Female,Vitamin C,Vegetarian,High,None,Hypertension,Vegetarian Diet
+46,45.5678368,189.0327647,Female,Vitamin B,Vegetarian,Moderate,None,Diabetes,Balanced Diet
+51,91.22056395,186.3622109,Male,Vitamin B,Non-Vegetarian,Moderate,Mild,Hypertension,Low Glycemic Index Diet
+26,83.64808879,172.3984158,Female,Vitamin C,Vegetarian,Moderate,Mild,Hypertension,Low-Carb Diet
+29,81.93536082,151.5667176,Male,Vitamin C,Non-Vegetarian,Low,Mild,Hypertension,Low-Carb Diet
+67,60.24111245,156.9898911,Male,Vitamin B,Vegetarian,Low,Severe,None,Heart-Healthy Diet
+65,40.62262306,142.8145288,Female,Vitamin C,Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+35,107.9803929,181.8719021,Female,Vitamin C,Vegetarian,Moderate,Mild,Diabetes,Balanced Diet
+23,53.04938659,169.2439078,Female,Vitamin B,Vegetarian,High,None,Hypertension,Balanced Diet
+22,76.39534122,194.699952,Male,Vitamin B,Vegetarian,Low,Severe,Hypertension,Balanced Diet
+54,50.8984936,148.2277691,Male,Vitamin A,Non-Vegetarian,Low,None,Hypertension,Heart-Healthy Diet
+23,108.8874023,177.0680291,Female,Vitamin A,Non-Vegetarian,Moderate,None,Heart Disease,Balanced Diet
+59,138.4819488,173.2751055,Male,Vitamin A,Non-Vegetarian,High,Mild,None,Low Sodium Diet
+25,98.33104051,160.0689214,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Diabetes,High-Protein Diet
+63,134.6789868,187.9603453,Female,Vitamin C,Vegetarian,Low,None,Heart Disease,Low Sodium Diet
+73,71.61507381,183.8595681,Male,Vitamin B,Vegetarian,Moderate,Severe,Diabetes,Low Glycemic Index Diet
+63,136.8546607,197.0062917,Male,Vitamin A,Vegetarian,High,Severe,Heart Disease,Low Glycemic Index Diet
+61,49.87288647,142.8509189,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+34,123.0977323,159.422609,Male,Vitamin A,Vegetarian,Low,None,Diabetes,Vegetarian Diet
+67,98.37659329,168.7138802,Male,Vitamin C,Vegetarian,Low,Mild,Hypertension,Heart-Healthy Diet
+41,88.90588083,178.464674,Male,Vitamin A,Non-Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+47,74.30871992,163.5477976,Male,Vitamin A,Vegetarian,High,Severe,None,Vegetarian Diet
+72,99.34528689,198.3186089,Male,Vitamin B,Non-Vegetarian,Low,Mild,None,Low Sodium Diet
+56,59.16250566,183.5154949,Female,Vitamin A,Vegetarian,Moderate,Mild,Diabetes,Low Sodium Diet
+76,140.7867749,199.9547211,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+26,73.61058301,189.2171083,Male,Vitamin C,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+39,88.50271457,160.7131081,Female,Vitamin B,Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+54,41.16273546,184.5597223,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+67,122.2543243,195.5180502,Male,Vitamin B,Vegetarian,High,Mild,Diabetes,Low Sodium Diet
+55,98.83009451,198.798269,Female,Vitamin A,Vegetarian,Moderate,Mild,None,Low Sodium Diet
+32,96.84319169,186.8689355,Female,Vitamin C,Non-Vegetarian,Low,Mild,None,Balanced Diet
+37,70.19370839,180.7579407,Male,Vitamin A,Vegetarian,Low,None,None,Vegetarian Diet
+44,99.21819486,181.7602126,Male,Vitamin B,Vegetarian,Moderate,Severe,None,Balanced Diet
+25,99.05082486,166.5144909,Female,Vitamin C,Non-Vegetarian,High,Mild,Heart Disease,High-Protein Diet
+70,129.9541674,181.0289188,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Heart Disease,Low Glycemic Index Diet
+32,61.54290618,177.2912932,Female,Vitamin C,Non-Vegetarian,Low,None,None,Balanced Diet
+53,44.88633259,193.5060908,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,None,Heart-Healthy Diet
+51,147.7106676,141.9242083,Male,Vitamin A,Non-Vegetarian,Moderate,None,Diabetes,Low Sodium Diet
+76,53.99501891,157.6475609,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Heart Disease,Low Glycemic Index Diet
+51,139.476832,184.5835353,Male,Vitamin A,Non-Vegetarian,Moderate,Mild,None,Low Sodium Diet
+21,79.21577104,179.5000862,Female,Vitamin A,Non-Vegetarian,Low,Severe,Diabetes,Low-Carb Diet
+41,127.1042287,184.3379469,Male,Vitamin A,Vegetarian,High,Mild,None,Balanced Diet
+33,55.1015768,154.3937209,Female,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Vegetarian Diet
+42,64.66316251,180.8594481,Male,Vitamin C,Vegetarian,Moderate,Severe,None,Balanced Diet
+27,130.6957169,147.0662099,Male,Vitamin B,Non-Vegetarian,Low,None,Heart Disease,High-Protein Diet
+47,44.74654433,146.5114259,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Balanced Diet
+26,136.8378858,142.2849827,Female,Vitamin A,Non-Vegetarian,High,Severe,None,High-Protein Diet
+64,104.2684136,179.5393931,Male,Vitamin A,Vegetarian,High,Severe,Diabetes,Heart-Healthy Diet
+45,56.07214211,194.1623256,Female,Vitamin B,Non-Vegetarian,Low,None,Diabetes,Balanced Diet
+48,85.93335288,152.0308296,Male,Vitamin C,Vegetarian,High,Severe,Heart Disease,Balanced Diet
+37,95.39815798,163.1050962,Male,Vitamin A,Non-Vegetarian,Moderate,None,Diabetes,Balanced Diet
+29,41.56339854,158.2655008,Male,Vitamin C,Vegetarian,Moderate,Mild,Hypertension,Low-Carb Diet
+27,54.8141593,173.0801073,Female,Vitamin A,Non-Vegetarian,Moderate,Mild,Diabetes,Low-Carb Diet
+24,40.8765086,166.8810075,Female,Vitamin C,Vegetarian,Moderate,Severe,None,Balanced Diet
+65,138.5721082,185.983739,Male,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Low Glycemic Index Diet
+62,101.2438238,163.4040025,Female,Vitamin B,Non-Vegetarian,High,Mild,Hypertension,Heart-Healthy Diet
+73,126.995405,158.7658058,Male,Vitamin A,Vegetarian,High,Mild,Heart Disease,Low Glycemic Index Diet
+72,83.57421872,194.2285509,Female,Vitamin C,Vegetarian,High,Mild,Diabetes,Low Sodium Diet
+29,52.95210838,162.9103696,Female,Vitamin A,Non-Vegetarian,Low,Mild,Hypertension,Balanced Diet
+49,136.8436892,175.4831217,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+59,40.84604596,165.3409421,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Hypertension,Heart-Healthy Diet
+42,114.4939156,191.2621719,Male,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+38,65.73660912,170.3567077,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Vegetarian Diet
+38,128.3976398,184.1111346,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Hypertension,Vegetarian Diet
+38,117.1353434,144.2023462,Female,Vitamin C,Vegetarian,High,None,Diabetes,Vegetarian Diet
+46,145.3842983,178.0547174,Male,Vitamin C,Non-Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+47,127.1532851,170.5875904,Female,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+63,55.97075487,186.7977583,Male,Vitamin A,Non-Vegetarian,Moderate,None,Diabetes,Low Sodium Diet
+46,94.12282824,165.233303,Female,Vitamin C,Vegetarian,Low,Mild,None,Vegetarian Diet
+27,41.72343335,198.31157,Female,Vitamin C,Vegetarian,High,None,Heart Disease,High-Protein Diet
+28,99.24604364,184.4856446,Male,Vitamin C,Vegetarian,Moderate,None,None,High-Protein Diet
+37,135.9702906,144.5433924,Female,Vitamin C,Vegetarian,Low,Mild,None,Balanced Diet
+34,130.723731,187.6464322,Female,Vitamin A,Non-Vegetarian,Low,Severe,Diabetes,Balanced Diet
+51,90.20736125,149.3077138,Male,Vitamin B,Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+40,45.19193928,142.8318035,Male,Vitamin C,Non-Vegetarian,Low,Severe,None,Balanced Diet
+33,60.56546197,172.0797901,Male,Vitamin A,Vegetarian,Moderate,Severe,None,Balanced Diet
+32,48.11167804,198.3861638,Female,Vitamin A,Vegetarian,High,Mild,Hypertension,Balanced Diet
+19,94.9478973,157.4705529,Male,Vitamin C,Vegetarian,High,None,None,Balanced Diet
+63,120.3457892,159.3789452,Male,Vitamin A,Non-Vegetarian,High,Mild,Heart Disease,Heart-Healthy Diet
+47,111.4491421,184.8451799,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Hypertension,Vegetarian Diet
+54,42.25158537,150.0095833,Female,Vitamin B,Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+40,82.31308303,197.6828539,Male,Vitamin C,Non-Vegetarian,High,None,Hypertension,Vegetarian Diet
+53,42.07233795,174.0066266,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Low Sodium Diet
+29,75.42468832,184.166387,Female,Vitamin C,Non-Vegetarian,High,Severe,Diabetes,Balanced Diet
+77,83.54916686,168.2436128,Female,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+75,123.2318219,150.0033556,Female,Vitamin B,Non-Vegetarian,Low,None,Hypertension,Low Sodium Diet
+68,105.0470434,175.9066383,Female,Vitamin C,Vegetarian,High,Mild,None,Low Glycemic Index Diet
+25,127.2786244,169.629145,Male,Vitamin A,Non-Vegetarian,High,Mild,Hypertension,Low-Carb Diet
+57,102.5068349,186.5705745,Male,Vitamin B,Vegetarian,High,Mild,None,Heart-Healthy Diet
+38,134.8548462,167.1881608,Female,Vitamin A,Vegetarian,Low,Mild,None,Vegetarian Diet
+33,67.15939172,147.1107359,Male,Vitamin B,Vegetarian,High,Severe,Hypertension,Vegetarian Diet
+78,64.0606075,170.7176796,Male,Vitamin B,Non-Vegetarian,High,None,None,Low Glycemic Index Diet
+52,110.2903022,154.6056765,Female,Vitamin A,Non-Vegetarian,High,Severe,Heart Disease,Heart-Healthy Diet
+30,87.17264642,171.1151659,Male,Vitamin C,Non-Vegetarian,Low,Mild,Hypertension,Vegetarian Diet
+47,107.371049,150.3793407,Male,Vitamin A,Vegetarian,High,Severe,Heart Disease,Balanced Diet
+33,122.9149899,147.8485529,Male,Vitamin A,Non-Vegetarian,Low,Severe,None,Vegetarian Diet
+48,89.10194758,180.4948101,Male,Vitamin C,Non-Vegetarian,Low,Severe,Heart Disease,Balanced Diet
+76,94.36954937,192.4168483,Male,Vitamin C,Vegetarian,Moderate,None,None,Low Sodium Diet
+50,114.8107656,148.4445711,Female,Vitamin C,Non-Vegetarian,Low,Mild,Heart Disease,Low Glycemic Index Diet
+74,59.80887801,183.7155006,Male,Vitamin B,Vegetarian,Low,Severe,None,Low Sodium Diet
+38,46.82688195,172.4243612,Female,Vitamin B,Non-Vegetarian,Low,Severe,Diabetes,Balanced Diet
+35,112.0702443,144.6403838,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+32,67.2075451,181.5482611,Male,Vitamin A,Non-Vegetarian,Low,None,Hypertension,Vegetarian Diet
+19,130.3667067,147.8421178,Male,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,High-Protein Diet
+47,43.45457683,199.429408,Male,Vitamin B,Non-Vegetarian,Low,Severe,Heart Disease,Vegetarian Diet
+53,107.2209046,159.7209509,Male,Vitamin B,Non-Vegetarian,High,Severe,Hypertension,Heart-Healthy Diet
+79,128.6106693,178.4128561,Female,Vitamin C,Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+67,148.985949,144.7436696,Female,Vitamin C,Vegetarian,High,Severe,Hypertension,Heart-Healthy Diet
+80,56.49560896,146.3987105,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Heart-Healthy Diet
+48,83.61614739,184.2165532,Female,Vitamin C,Vegetarian,Moderate,Mild,Diabetes,Balanced Diet
+42,119.6200879,143.6403055,Male,Vitamin A,Vegetarian,High,None,None,Vegetarian Diet
+18,122.6321606,152.4867939,Female,Vitamin A,Non-Vegetarian,Low,Mild,Hypertension,Balanced Diet
+46,60.26011832,154.2446705,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+76,101.3549218,152.0182067,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,Low Glycemic Index Diet
+80,104.133492,195.1978051,Female,Vitamin A,Non-Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+27,71.57963852,185.5712197,Female,Vitamin C,Vegetarian,Low,Severe,Diabetes,Low-Carb Diet
+25,93.00647839,190.6133039,Male,Vitamin A,Vegetarian,High,None,Hypertension,Balanced Diet
+48,117.6512252,142.7697003,Male,Vitamin A,Vegetarian,Low,Severe,Hypertension,Balanced Diet
+75,51.6724983,158.2873261,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,None,Low Sodium Diet
+49,128.2103858,160.3148724,Male,Vitamin C,Vegetarian,High,Severe,Diabetes,Balanced Diet
+34,113.0122895,182.8930812,Female,Vitamin C,Vegetarian,Moderate,Mild,Hypertension,Vegetarian Diet
+76,129.7139387,152.0948261,Female,Vitamin A,Vegetarian,Moderate,Severe,Hypertension,Low Sodium Diet
+18,45.02136297,153.349352,Male,Vitamin C,Vegetarian,Low,None,Diabetes,High-Protein Diet
+41,49.29480379,153.0513967,Female,Vitamin B,Vegetarian,Low,None,Diabetes,Balanced Diet
+64,144.396424,146.1020809,Male,Vitamin A,Vegetarian,Moderate,Mild,None,Heart-Healthy Diet
+22,49.10641483,191.5843699,Male,Vitamin B,Non-Vegetarian,Low,None,None,Balanced Diet
+60,125.9530064,163.5917966,Male,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Heart-Healthy Diet
+78,79.52993273,145.0265304,Male,Vitamin B,Non-Vegetarian,High,None,None,Low Glycemic Index Diet
+63,128.7696759,156.9165825,Female,Vitamin C,Non-Vegetarian,High,Mild,Hypertension,Low Sodium Diet
+72,108.772776,190.6672532,Female,Vitamin C,Vegetarian,High,Severe,None,Heart-Healthy Diet
+26,132.2201813,194.3150003,Male,Vitamin C,Vegetarian,Moderate,Severe,None,Balanced Diet
+76,124.2925733,156.7342328,Female,Vitamin C,Non-Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
+36,83.45601456,196.9361496,Female,Vitamin C,Non-Vegetarian,High,None,None,Balanced Diet
+70,133.0809338,152.2831869,Female,Vitamin C,Vegetarian,High,Mild,Heart Disease,Low Sodium Diet
+69,132.4352631,181.6226895,Male,Vitamin A,Non-Vegetarian,Low,None,Diabetes,Low Sodium Diet
+35,102.9569245,145.5861989,Male,Vitamin A,Non-Vegetarian,Low,None,None,Vegetarian Diet
+57,119.4234426,173.699996,Male,Vitamin C,Vegetarian,High,Severe,Diabetes,Low Glycemic Index Diet
+25,87.84967999,165.9468058,Male,Vitamin C,Non-Vegetarian,High,None,Diabetes,High-Protein Diet
+22,130.2855301,162.8588449,Female,Vitamin B,Vegetarian,Moderate,Mild,Heart Disease,Low-Carb Diet
+39,123.3113418,180.1897882,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Diabetes,Balanced Diet
+47,52.9839524,164.6766839,Male,Vitamin C,Non-Vegetarian,Low,None,None,Vegetarian Diet
+71,89.81796953,173.0251004,Male,Vitamin B,Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+28,90.8839561,169.7434894,Female,Vitamin C,Vegetarian,Low,Severe,Diabetes,Low-Carb Diet
+35,139.0525007,173.1378115,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+62,143.8713573,142.0569871,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Heart Disease,Low Sodium Diet
+34,42.93959252,198.2837797,Female,Vitamin C,Non-Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+73,40.66798096,179.4270991,Male,Vitamin A,Vegetarian,Low,Severe,Heart Disease,Low Sodium Diet
+64,44.36611549,178.7524994,Male,Vitamin B,Vegetarian,High,Mild,Hypertension,Heart-Healthy Diet
+60,125.816442,168.2504027,Male,Vitamin C,Non-Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+28,56.03838221,192.8614651,Female,Vitamin C,Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+26,128.899984,156.9282618,Male,Vitamin C,Non-Vegetarian,Low,None,Hypertension,Low-Carb Diet
+54,103.6160065,164.6634925,Female,Vitamin B,Non-Vegetarian,High,Severe,Diabetes,Low Glycemic Index Diet
+34,67.40275813,198.1688032,Female,Vitamin A,Vegetarian,High,None,Heart Disease,Vegetarian Diet
+28,143.1554983,168.5423892,Male,Vitamin A,Non-Vegetarian,High,None,Diabetes,High-Protein Diet
+58,92.8829366,177.8687286,Male,Vitamin A,Vegetarian,Moderate,Severe,Heart Disease,Heart-Healthy Diet
+22,70.24119142,141.0174774,Female,Vitamin C,Vegetarian,High,Mild,Diabetes,Low-Carb Diet
+59,105.4757683,161.2529976,Female,Vitamin B,Vegetarian,High,Mild,Hypertension,Low Sodium Diet
+58,134.7471359,160.0035422,Female,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,Low Sodium Diet
+33,105.5399726,165.2667448,Female,Vitamin B,Non-Vegetarian,Low,Mild,Hypertension,Vegetarian Diet
+66,73.34439394,153.0285792,Female,Vitamin C,Vegetarian,Low,None,Heart Disease,Heart-Healthy Diet
+34,98.67458395,159.1620246,Male,Vitamin A,Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+75,80.49901443,184.4605081,Female,Vitamin B,Non-Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+28,143.0752947,175.932747,Male,Vitamin B,Vegetarian,High,None,Diabetes,Balanced Diet
+48,64.81390446,143.5973739,Male,Vitamin A,Non-Vegetarian,High,None,None,Balanced Diet
+56,107.2061342,153.9959462,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Heart-Healthy Diet
+29,99.76197758,192.5627601,Female,Vitamin C,Vegetarian,Low,None,Diabetes,Balanced Diet
+60,47.81137714,153.6920875,Male,Vitamin C,Non-Vegetarian,Low,None,None,Low Sodium Diet
+59,103.4842753,141.3534034,Female,Vitamin B,Non-Vegetarian,High,None,Heart Disease,Heart-Healthy Diet
+40,141.5708466,194.4999786,Male,Vitamin B,Non-Vegetarian,High,Severe,Hypertension,Vegetarian Diet
+52,95.77848725,142.4720874,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+18,141.263999,180.1437431,Female,Vitamin A,Vegetarian,High,Mild,None,High-Protein Diet
+65,96.58844769,192.5530558,Male,Vitamin C,Non-Vegetarian,High,Mild,Diabetes,Low Glycemic Index Diet
+53,103.4320216,175.0668659,Male,Vitamin A,Non-Vegetarian,Low,Severe,Hypertension,Low Glycemic Index Diet
+29,81.68471969,188.9112623,Male,Vitamin A,Vegetarian,High,None,Heart Disease,Low-Carb Diet
+26,50.40888664,171.3126381,Male,Vitamin A,Vegetarian,Low,Severe,None,Balanced Diet
+46,53.47887573,184.285657,Female,Vitamin C,Vegetarian,High,None,Diabetes,Vegetarian Diet
+65,46.46983865,168.2188064,Female,Vitamin B,Non-Vegetarian,High,Mild,Heart Disease,Low Glycemic Index Diet
+63,126.8716683,144.9322478,Female,Vitamin B,Vegetarian,Moderate,None,Hypertension,Heart-Healthy Diet
+72,127.3539579,190.5955211,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
+49,72.74051168,189.4099088,Male,Vitamin C,Non-Vegetarian,Low,None,Heart Disease,Vegetarian Diet
+32,42.80060559,182.9749355,Male,Vitamin A,Vegetarian,Low,Mild,Diabetes,Vegetarian Diet
+34,123.7852754,180.6557489,Male,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+23,143.8187411,175.8631104,Male,Vitamin B,Non-Vegetarian,Low,None,Diabetes,Low-Carb Diet
+33,134.8095187,157.0418973,Female,Vitamin C,Non-Vegetarian,Moderate,None,Heart Disease,Vegetarian Diet
+65,71.70379163,159.937377,Female,Vitamin A,Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+60,79.19497839,192.4974907,Female,Vitamin A,Vegetarian,High,None,Hypertension,Low Glycemic Index Diet
+33,84.92632297,186.594809,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,None,Vegetarian Diet
+47,143.0442111,157.1985089,Female,Vitamin C,Non-Vegetarian,High,None,Heart Disease,Vegetarian Diet
+47,42.24096446,184.9860636,Female,Vitamin B,Non-Vegetarian,Low,None,Diabetes,Vegetarian Diet
+78,82.74099199,146.9873129,Male,Vitamin C,Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
+20,75.14655035,172.7663054,Male,Vitamin A,Vegetarian,High,Mild,Heart Disease,Low-Carb Diet
+68,100.6457065,186.289103,Male,Vitamin A,Vegetarian,Moderate,None,Diabetes,Low Sodium Diet
+79,129.2547132,177.5357073,Male,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Low Sodium Diet
+25,73.16767056,181.231054,Male,Vitamin B,Non-Vegetarian,High,Severe,None,Balanced Diet
+24,129.087143,180.2632993,Female,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,High-Protein Diet
+34,110.5518638,192.5705677,Female,Vitamin B,Non-Vegetarian,High,Mild,Diabetes,Balanced Diet
+64,110.8178155,198.1577852,Female,Vitamin B,Non-Vegetarian,High,None,Heart Disease,Low Glycemic Index Diet
+67,79.22422433,155.999114,Female,Vitamin B,Vegetarian,High,Severe,None,Heart-Healthy Diet
+23,114.6456414,170.684793,Male,Vitamin C,Non-Vegetarian,High,Mild,None,Balanced Diet
+60,69.98086879,164.3533634,Male,Vitamin A,Vegetarian,Low,Mild,Diabetes,Low Sodium Diet
+49,83.49977087,189.7927467,Female,Vitamin B,Non-Vegetarian,High,Severe,Diabetes,Vegetarian Diet
+47,95.93492347,191.7784692,Male,Vitamin C,Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+74,79.5675364,160.8921015,Male,Vitamin B,Non-Vegetarian,Moderate,Severe,Heart Disease,Heart-Healthy Diet
+21,92.54243166,191.9719465,Male,Vitamin A,Non-Vegetarian,Low,Severe,Diabetes,Balanced Diet
+53,132.6940588,184.7051952,Female,Vitamin A,Vegetarian,Low,Mild,None,Low Glycemic Index Diet
+62,83.00299562,184.2206683,Female,Vitamin A,Non-Vegetarian,High,Mild,Heart Disease,Heart-Healthy Diet
+68,99.41477639,155.6799688,Female,Vitamin A,Non-Vegetarian,Moderate,Severe,Diabetes,Heart-Healthy Diet
+64,49.87529014,167.5462449,Male,Vitamin A,Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+77,128.1854883,159.2452192,Male,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Low Sodium Diet
+65,57.94046046,160.7151763,Female,Vitamin A,Vegetarian,High,None,Diabetes,Low Glycemic Index Diet
+45,98.05352836,147.822583,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Heart Disease,Vegetarian Diet
+22,84.00808548,183.2777535,Female,Vitamin C,Vegetarian,High,Mild,Hypertension,Balanced Diet
+63,62.07163639,178.7144246,Male,Vitamin A,Non-Vegetarian,High,None,Diabetes,Low Glycemic Index Diet
+60,147.7241363,181.492558,Female,Vitamin A,Vegetarian,Moderate,None,Diabetes,Low Glycemic Index Diet
+58,81.14152483,198.3857828,Female,Vitamin A,Non-Vegetarian,Moderate,None,Hypertension,Heart-Healthy Diet
+38,117.5678463,141.3859577,Male,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+45,133.4965137,182.133715,Female,Vitamin A,Vegetarian,High,Mild,None,Vegetarian Diet
+66,90.08146781,150.3408214,Female,Vitamin B,Non-Vegetarian,Moderate,None,Hypertension,Low Sodium Diet
+27,124.0307745,170.0998428,Female,Vitamin C,Non-Vegetarian,High,None,Hypertension,Balanced Diet
+25,73.6485283,194.2079074,Male,Vitamin A,Non-Vegetarian,Moderate,None,None,Low-Carb Diet
+49,90.21435715,180.3076872,Male,Vitamin B,Non-Vegetarian,Low,Mild,None,Balanced Diet
+36,141.860825,143.0138251,Female,Vitamin C,Vegetarian,Low,Severe,None,Vegetarian Diet
+19,121.9337658,155.3704088,Male,Vitamin B,Non-Vegetarian,Low,None,None,High-Protein Diet
+49,75.87399081,179.476105,Female,Vitamin A,Non-Vegetarian,Low,None,Diabetes,Vegetarian Diet
+54,109.1098102,155.2089196,Male,Vitamin A,Vegetarian,Low,Severe,Diabetes,Low Glycemic Index Diet
+32,134.363791,171.5148175,Female,Vitamin A,Non-Vegetarian,Moderate,None,Diabetes,Vegetarian Diet
+22,42.06166756,162.1981892,Male,Vitamin B,Vegetarian,High,None,Hypertension,Balanced Diet
+25,135.9360456,186.9859771,Male,Vitamin A,Non-Vegetarian,Moderate,None,Heart Disease,High-Protein Diet
+80,101.6414857,173.1630413,Male,Vitamin A,Vegetarian,Moderate,Mild,Hypertension,Low Sodium Diet
+25,86.66966925,183.5287056,Female,Vitamin A,Non-Vegetarian,Low,None,None,Low-Carb Diet
+68,54.30989081,193.4293608,Female,Vitamin C,Non-Vegetarian,Moderate,Mild,Diabetes,Low Sodium Diet
+51,106.2473437,176.6393049,Male,Vitamin A,Non-Vegetarian,High,Severe,Heart Disease,Low Glycemic Index Diet
+25,116.0910597,181.8757562,Male,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Low-Carb Diet
+46,48.65268123,189.5862758,Female,Vitamin B,Non-Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+34,149.3413766,168.4515661,Female,Vitamin C,Vegetarian,High,None,Heart Disease,Balanced Diet
+69,41.71578111,161.1799875,Female,Vitamin B,Non-Vegetarian,Moderate,Severe,Hypertension,Low Sodium Diet
+45,133.8925803,156.0337691,Female,Vitamin C,Vegetarian,High,Mild,Hypertension,Vegetarian Diet
+73,59.4568585,143.3826072,Female,Vitamin C,Non-Vegetarian,Moderate,None,None,Low Sodium Diet
+30,121.7130754,199.1881384,Male,Vitamin C,Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+34,64.38149202,194.2467006,Male,Vitamin B,Vegetarian,Moderate,Severe,None,Vegetarian Diet
+48,136.8694651,145.0578252,Male,Vitamin A,Vegetarian,Moderate,Severe,Heart Disease,Balanced Diet
+64,40.38397895,146.3287547,Male,Vitamin C,Non-Vegetarian,High,Mild,Diabetes,Low Glycemic Index Diet
+34,90.38694343,199.3952088,Male,Vitamin A,Vegetarian,High,Severe,Hypertension,Balanced Diet
+77,67.85056517,185.4086814,Male,Vitamin A,Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+59,45.03642013,198.9568195,Female,Vitamin B,Non-Vegetarian,High,Mild,Diabetes,Low Glycemic Index Diet
+35,41.90245683,171.1882451,Female,Vitamin A,Non-Vegetarian,Moderate,Mild,Diabetes,Vegetarian Diet
+27,84.79947236,165.4991181,Female,Vitamin B,Vegetarian,Low,None,Heart Disease,Balanced Diet
+52,88.97739669,189.0627525,Female,Vitamin A,Non-Vegetarian,Low,Mild,Diabetes,Low Sodium Diet
+32,46.69455351,166.831381,Female,Vitamin A,Vegetarian,Moderate,Severe,None,Vegetarian Diet
+42,83.91457457,152.4498883,Male,Vitamin C,Non-Vegetarian,Low,Severe,None,Balanced Diet
+65,42.39310058,151.267686,Male,Vitamin B,Vegetarian,High,Severe,Heart Disease,Low Sodium Diet
+53,131.855548,186.9331928,Male,Vitamin B,Non-Vegetarian,Low,Severe,Diabetes,Low Sodium Diet
+44,60.85628075,146.5020033,Female,Vitamin A,Non-Vegetarian,Moderate,Mild,Heart Disease,Balanced Diet
+70,84.84727943,194.9935822,Female,Vitamin A,Non-Vegetarian,High,Mild,None,Low Glycemic Index Diet
+49,123.5180524,175.1115863,Female,Vitamin C,Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+54,94.75847427,167.1797546,Female,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Heart-Healthy Diet
+28,69.31543844,142.1312847,Male,Vitamin A,Vegetarian,High,Severe,Hypertension,High-Protein Diet
+18,149.8122762,182.4093014,Male,Vitamin A,Vegetarian,High,None,Diabetes,Low-Carb Diet
+67,86.71662806,177.2199332,Male,Vitamin C,Vegetarian,High,Severe,Hypertension,Low Sodium Diet
+34,91.09485382,193.2274291,Female,Vitamin A,Non-Vegetarian,Low,None,Heart Disease,Vegetarian Diet
+51,143.1171422,183.7435871,Male,Vitamin B,Vegetarian,Moderate,None,Hypertension,Heart-Healthy Diet
+72,80.62885933,169.1186019,Male,Vitamin A,Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+48,44.49277952,149.7134178,Female,Vitamin C,Vegetarian,Moderate,Severe,Hypertension,Vegetarian Diet
+25,119.5184438,161.1028881,Female,Vitamin C,Non-Vegetarian,Low,Mild,None,High-Protein Diet
+27,44.34638633,148.318691,Male,Vitamin C,Vegetarian,High,Mild,Diabetes,High-Protein Diet
+19,60.12434574,175.2547921,Female,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Balanced Diet
+21,148.9475627,196.1632139,Female,Vitamin A,Vegetarian,High,Mild,Diabetes,Balanced Diet
+25,113.1627276,182.7960718,Female,Vitamin B,Non-Vegetarian,Moderate,None,Diabetes,Low-Carb Diet
+41,117.3494055,159.3241519,Female,Vitamin C,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+59,112.1663998,198.919098,Male,Vitamin A,Vegetarian,High,Severe,None,Low Glycemic Index Diet
+75,84.44190497,149.4762179,Male,Vitamin A,Non-Vegetarian,Moderate,Severe,Hypertension,Low Sodium Diet
+77,53.7276296,171.6579469,Female,Vitamin B,Vegetarian,Low,Severe,None,Low Glycemic Index Diet
+75,69.93164987,192.937438,Male,Vitamin C,Vegetarian,Moderate,None,Diabetes,Heart-Healthy Diet
+32,127.9382204,186.1825102,Male,Vitamin C,Vegetarian,Low,Severe,Diabetes,Vegetarian Diet
+46,44.23736547,141.2455617,Male,Vitamin C,Vegetarian,Moderate,Severe,Diabetes,Vegetarian Diet
+41,54.26064548,189.893308,Female,Vitamin A,Vegetarian,Moderate,None,None,Vegetarian Diet
+58,138.5150459,196.8792165,Female,Vitamin B,Non-Vegetarian,Moderate,None,Hypertension,Heart-Healthy Diet
+52,138.9064855,189.5588147,Male,Vitamin B,Vegetarian,Low,Severe,Diabetes,Low Sodium Diet
+63,60.07219532,194.4014889,Female,Vitamin A,Non-Vegetarian,Low,Mild,Heart Disease,Low Sodium Diet
+74,115.3660331,181.6787871,Male,Vitamin C,Non-Vegetarian,Low,None,None,Low Glycemic Index Diet
+25,122.1509077,152.1672958,Male,Vitamin B,Vegetarian,Low,None,Hypertension,High-Protein Diet
+50,134.9871076,187.8864834,Male,Vitamin A,Non-Vegetarian,High,None,Diabetes,Low Glycemic Index Diet
+32,105.9350423,181.5947545,Male,Vitamin B,Non-Vegetarian,Low,Mild,Diabetes,Vegetarian Diet
+56,101.7614008,142.521641,Female,Vitamin B,Vegetarian,Low,None,Diabetes,Heart-Healthy Diet
+58,138.523229,145.5593121,Male,Vitamin C,Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+48,130.5936279,170.4708018,Female,Vitamin A,Vegetarian,Low,Mild,None,Vegetarian Diet
+77,126.7756138,193.9950572,Female,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Low Glycemic Index Diet
+26,137.3513183,175.6384493,Female,Vitamin B,Non-Vegetarian,High,Mild,None,Low-Carb Diet
+68,138.5250978,189.1000512,Female,Vitamin C,Non-Vegetarian,Moderate,None,Hypertension,Low Glycemic Index Diet
+65,54.10733856,194.6584195,Female,Vitamin A,Vegetarian,Moderate,Severe,Diabetes,Low Sodium Diet
+30,122.3896559,190.5025542,Female,Vitamin C,Non-Vegetarian,High,None,Diabetes,Vegetarian Diet
+55,132.4296562,181.9414534,Female,Vitamin B,Non-Vegetarian,High,None,None,Low Sodium Diet
+74,117.5183588,153.3949532,Male,Vitamin A,Vegetarian,Low,Mild,Heart Disease,Low Sodium Diet
+34,44.0731274,176.4586478,Male,Vitamin A,Vegetarian,Moderate,None,Diabetes,Balanced Diet
+19,123.6907839,144.1715368,Male,Vitamin A,Vegetarian,Low,Mild,Diabetes,Balanced Diet
+44,73.71741274,194.5232408,Female,Vitamin A,Non-Vegetarian,High,Mild,Heart Disease,Vegetarian Diet
+70,90.12832538,153.8655936,Female,Vitamin B,Vegetarian,Low,Severe,Heart Disease,Heart-Healthy Diet
+71,81.83139282,157.7736866,Female,Vitamin B,Vegetarian,Moderate,Severe,None,Low Glycemic Index Diet
+74,109.0152955,172.0827637,Female,Vitamin C,Vegetarian,Moderate,Severe,Hypertension,Low Glycemic Index Diet
